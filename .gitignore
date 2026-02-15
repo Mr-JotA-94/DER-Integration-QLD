@@ -1,0 +1,42 @@
+ # Data files (too large for Git)
+data/raw/*
+data/processed/*
+*.csv
+*.xlsx
+*.parquet
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output files (can regenerate)
+outputs/figures/*
+outputs/reports/*
+
+# Keep folder structure with .gitkeep files
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!outputs/figures/.gitkeep
+!outputs/reports/.gitkeep
