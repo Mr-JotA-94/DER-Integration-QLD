@@ -10,9 +10,9 @@ Analysis of Distributed Energy Resource (DER) data integration challenges in Que
 
 \## Author
 
-\[Your Name]  
+Johan Lopez
 
-Petroleum Engineer | MSc IT (Data Analysis)  
+Petroleum Engineer | MSc IT (Data Analysis)
 
 Focus: Renewable Energy Systems, DER/VPP Integration
 
@@ -20,7 +20,7 @@ Focus: Renewable Energy Systems, DER/VPP Integration
 
 \## Project Goals
 
-1\. Analyze DER deployment patterns in Queensland using AEMO data
+1\. Analyse DER deployment patterns in Queensland using AEMO data
 
 2\. Identify data integration and standardization challenges
 
@@ -76,9 +76,9 @@ DER-Integration-QLD/
 
 \## Contact
 
-jlopez94f@gmail.com  
+jlopez94f@gmail.com
 
-https://www.linkedin.com/in/johand-lopezf/ 
+https://www.linkedin.com/in/johand-lopezf/
 
 https://github.com/Mr-JotA-94
 
