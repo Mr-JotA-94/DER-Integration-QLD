@@ -66,9 +66,21 @@
 
 
 
-\## Technical Documentation
+## Technical Notes
 
-\- \[Add technical docs as you use them]
+### kVA vs kW (important for all AEMO capacity data)
+- AEMO DER Register reports capacity in **kVA** (kilovolt-amperes = apparent power)
+- To convert to **kW** (real/active power): multiply by power factor (~0.95 for solar)
+- Example: 10,770 kVA solar ≈ 10,231 kW ≈ 10.2 MW
+- Always state kVA when citing AEMO figures directly
+- This distinction matters when comparing to other sources that report in kW
+
+### DER Hierarchy (AEMO data structure)
+- **Site** = physical address / premises
+- **Connection** = NMI (National Metering Identifier) grid connection point
+- **Device** = individual DER unit (inverter, battery system, etc.)
+- Queensland ratio: 1 site → 1.22 connections → 9.78 devices per connection
+- This hierarchy is the source of protocol fragmentation in real-time DER orchestration
 
 
 
