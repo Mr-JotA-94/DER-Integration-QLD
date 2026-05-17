@@ -1,0 +1,8325 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "2406",
+        "suburb": "MUNGINDI",
+        "network": "Ergon",
+        "solar_mva": 0.0,
+        "battery_pen": 0.0,
+        "untapped": 13,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0408494,
+          -28.9041572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4000",
+        "suburb": "BRISBANE",
+        "network": "Energex",
+        "solar_mva": 9.0,
+        "battery_pen": 7.7,
+        "untapped": 480,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.023588,
+          -27.4660994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4005",
+        "suburb": "NEW FARM",
+        "network": "Energex",
+        "solar_mva": 6.7,
+        "battery_pen": 5.4,
+        "untapped": 1585,
+        "opp_score": 32.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.048,
+          -27.468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4006",
+        "suburb": "BOWEN BRIDGE",
+        "network": "Energex",
+        "solar_mva": 9.5,
+        "battery_pen": 5.6,
+        "untapped": 848,
+        "opp_score": 31.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.038,
+          -27.4432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4007",
+        "suburb": "ASCOT",
+        "network": "Energex",
+        "solar_mva": 11.2,
+        "battery_pen": 9.3,
+        "untapped": 1620,
+        "opp_score": 31.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.065,
+          -27.431944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4008",
+        "suburb": "BRISBANE AIRPORT",
+        "network": "Energex",
+        "solar_mva": 9.3,
+        "battery_pen": 8.3,
+        "untapped": 133,
+        "opp_score": 29.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.115,
+          -27.3941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4009",
+        "suburb": "EAGLE FARM",
+        "network": "Energex",
+        "solar_mva": 4.2,
+        "battery_pen": 1.7,
+        "untapped": 115,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0829858,
+          -27.4330179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4010",
+        "suburb": "ALBION",
+        "network": "Energex",
+        "solar_mva": 2.5,
+        "battery_pen": 3.3,
+        "untapped": 351,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0427215,
+          -27.4307455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4011",
+        "suburb": "CLAYFIELD",
+        "network": "Energex",
+        "solar_mva": 14.8,
+        "battery_pen": 7.6,
+        "untapped": 2572,
+        "opp_score": 34.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0583828,
+          -27.4159369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4012",
+        "suburb": "NUNDAH",
+        "network": "Energex",
+        "solar_mva": 19.3,
+        "battery_pen": 7.7,
+        "untapped": 3356,
+        "opp_score": 36.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0604371,
+          -27.4034491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4013",
+        "suburb": "NORTHGATE",
+        "network": "Energex",
+        "solar_mva": 7.1,
+        "battery_pen": 6.7,
+        "untapped": 838,
+        "opp_score": 30.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0706888,
+          -27.3944936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4014",
+        "suburb": "BANYO",
+        "network": "Energex",
+        "solar_mva": 25.7,
+        "battery_pen": 6.9,
+        "untapped": 3230,
+        "opp_score": 37.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0812456,
+          -27.3796668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4017",
+        "suburb": "BRACKEN RIDGE",
+        "network": "Energex",
+        "solar_mva": 43.9,
+        "battery_pen": 7.1,
+        "untapped": 7758,
+        "opp_score": 48.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0266071,
+          -27.3237467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4018",
+        "suburb": "FITZGIBBON",
+        "network": "Energex",
+        "solar_mva": 13.4,
+        "battery_pen": 5.6,
+        "untapped": 2368,
+        "opp_score": 34.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.033333,
+          -27.35
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4019",
+        "suburb": "CLONTARF",
+        "network": "Energex",
+        "solar_mva": 21.0,
+        "battery_pen": 6.0,
+        "untapped": 3551,
+        "opp_score": 37.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0827,
+          -27.2463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4020",
+        "suburb": "NEWPORT",
+        "network": "Energex",
+        "solar_mva": 32.2,
+        "battery_pen": 9.1,
+        "untapped": 5068,
+        "opp_score": 41.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.09,
+          -27.2105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4021",
+        "suburb": "KIPPA-RING",
+        "network": "Energex",
+        "solar_mva": 9.8,
+        "battery_pen": 5.8,
+        "untapped": 1714,
+        "opp_score": 32.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0824656,
+          -27.223156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4022",
+        "suburb": "ROTHWELL",
+        "network": "Energex",
+        "solar_mva": 8.4,
+        "battery_pen": 7.5,
+        "untapped": 1398,
+        "opp_score": 31.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0527075,
+          -27.2144286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4030",
+        "suburb": "EILDON HILL",
+        "network": "Energex",
+        "solar_mva": 12.8,
+        "battery_pen": 8.4,
+        "untapped": 2189,
+        "opp_score": 33.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.025,
+          -27.4307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4031",
+        "suburb": "GLEN KEDRON",
+        "network": "Energex",
+        "solar_mva": 13.1,
+        "battery_pen": 7.6,
+        "untapped": 2283,
+        "opp_score": 33.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.036,
+          -27.4074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4032",
+        "suburb": "CHERMSIDE",
+        "network": "Energex",
+        "solar_mva": 12.6,
+        "battery_pen": 6.9,
+        "untapped": 1888,
+        "opp_score": 33.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0294751,
+          -27.3859344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4034",
+        "suburb": "ASPLEY",
+        "network": "Energex",
+        "solar_mva": 52.2,
+        "battery_pen": 7.1,
+        "untapped": 8440,
+        "opp_score": 50.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0157,
+          -27.3639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4035",
+        "suburb": "ALBANY CREEK",
+        "network": "Energex",
+        "solar_mva": 41.6,
+        "battery_pen": 8.7,
+        "untapped": 6916,
+        "opp_score": 46.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.968056,
+          -27.346944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4036",
+        "suburb": "BALD HILLS",
+        "network": "Energex",
+        "solar_mva": 9.9,
+        "battery_pen": 6.8,
+        "untapped": 1487,
+        "opp_score": 32.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0088712,
+          -27.3138088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4037",
+        "suburb": "EATONS HILL",
+        "network": "Energex",
+        "solar_mva": 11.8,
+        "battery_pen": 10.2,
+        "untapped": 1919,
+        "opp_score": 32.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9353024,
+          -27.3392025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4051",
+        "suburb": "ALDERLEY",
+        "network": "Energex",
+        "solar_mva": 28.2,
+        "battery_pen": 8.8,
+        "untapped": 5348,
+        "opp_score": 41.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.005,
+          -27.423889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4053",
+        "suburb": "BROOKSIDE CENTRE",
+        "network": "Energex",
+        "solar_mva": 47.1,
+        "battery_pen": 7.4,
+        "untapped": 8741,
+        "opp_score": 50.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9792074,
+          -27.4092923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4054",
+        "suburb": "ARANA HILLS",
+        "network": "Energex",
+        "solar_mva": 14.6,
+        "battery_pen": 7.7,
+        "untapped": 2581,
+        "opp_score": 34.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.959444,
+          -27.3975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4055",
+        "suburb": "BUNYA",
+        "network": "Energex",
+        "solar_mva": 29.4,
+        "battery_pen": 8.5,
+        "untapped": 5126,
+        "opp_score": 41.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.937778,
+          -27.369722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4059",
+        "suburb": "BALLYMORE",
+        "network": "Energex",
+        "solar_mva": 9.5,
+        "battery_pen": 7.9,
+        "untapped": 1556,
+        "opp_score": 31.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.014,
+          -27.4456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4060",
+        "suburb": "ASHGROVE",
+        "network": "Energex",
+        "solar_mva": 14.2,
+        "battery_pen": 8.1,
+        "untapped": 2884,
+        "opp_score": 34.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9823835,
+          -27.4412376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4061",
+        "suburb": "THE GAP",
+        "network": "Energex",
+        "solar_mva": 22.0,
+        "battery_pen": 8.8,
+        "untapped": 4436,
+        "opp_score": 38.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9382447,
+          -27.4401591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4064",
+        "suburb": "BAROONA",
+        "network": "Energex",
+        "solar_mva": 12.3,
+        "battery_pen": 8.7,
+        "untapped": 2659,
+        "opp_score": 33.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.997,
+          -27.4662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4065",
+        "suburb": "BARDON",
+        "network": "Energex",
+        "solar_mva": 11.6,
+        "battery_pen": 8.3,
+        "untapped": 2674,
+        "opp_score": 33.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9764978,
+          -27.461705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4066",
+        "suburb": "AUCHENFLOWER",
+        "network": "Energex",
+        "solar_mva": 11.2,
+        "battery_pen": 7.7,
+        "untapped": 2609,
+        "opp_score": 33.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.991667,
+          -27.475556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4067",
+        "suburb": "IRONSIDE",
+        "network": "Energex",
+        "solar_mva": 5.8,
+        "battery_pen": 6.1,
+        "untapped": 1489,
+        "opp_score": 31.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.996,
+          -27.4987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4068",
+        "suburb": "CHELMER",
+        "network": "Energex",
+        "solar_mva": 20.4,
+        "battery_pen": 10.6,
+        "untapped": 3703,
+        "opp_score": 36.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9759,
+          -27.5163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4069",
+        "suburb": "BROOKFIELD",
+        "network": "Energex",
+        "solar_mva": 53.2,
+        "battery_pen": 9.8,
+        "untapped": 10172,
+        "opp_score": 53.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8979,
+          -27.4919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4070",
+        "suburb": "ANSTEAD",
+        "network": "Energex",
+        "solar_mva": 20.1,
+        "battery_pen": 9.3,
+        "untapped": 3500,
+        "opp_score": 36.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.866111,
+          -27.544722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4073",
+        "suburb": "SEVENTEEN MILE ROCKS",
+        "network": "Energex",
+        "solar_mva": 14.3,
+        "battery_pen": 7.8,
+        "untapped": 2320,
+        "opp_score": 33.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.959,
+          -27.551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4074",
+        "suburb": "JAMBOREE HEIGHTS",
+        "network": "Energex",
+        "solar_mva": 35.2,
+        "battery_pen": 8.1,
+        "untapped": 5978,
+        "opp_score": 43.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9338313,
+          -27.557147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4075",
+        "suburb": "CORINDA",
+        "network": "Energex",
+        "solar_mva": 30.5,
+        "battery_pen": 8.7,
+        "untapped": 5017,
+        "opp_score": 40.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9823835,
+          -27.5442725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4076",
+        "suburb": "DARRA",
+        "network": "Energex",
+        "solar_mva": 30.8,
+        "battery_pen": 5.6,
+        "untapped": 1258,
+        "opp_score": 35.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9532121,
+          -27.5660241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4077",
+        "suburb": "DOOLANDELLA",
+        "network": "Energex",
+        "solar_mva": 32.8,
+        "battery_pen": 6.6,
+        "untapped": 4932,
+        "opp_score": 41.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.983333,
+          -27.616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4078",
+        "suburb": "ELLEN GROVE",
+        "network": "Energex",
+        "solar_mva": 30.4,
+        "battery_pen": 7.8,
+        "untapped": 5069,
+        "opp_score": 41.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.95,
+          -27.616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4101",
+        "suburb": "HIGHGATE HILL",
+        "network": "Energex",
+        "solar_mva": 12.7,
+        "battery_pen": 9.7,
+        "untapped": 2418,
+        "opp_score": 33.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.019,
+          -27.487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4102",
+        "suburb": "BURANDA",
+        "network": "Energex",
+        "solar_mva": 6.0,
+        "battery_pen": 8.7,
+        "untapped": 783,
+        "opp_score": 29.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.040522,
+          -27.4934521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4103",
+        "suburb": "ANNERLEY",
+        "network": "Energex",
+        "solar_mva": 10.4,
+        "battery_pen": 8.0,
+        "untapped": 2009,
+        "opp_score": 32.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0309346,
+          -27.5138962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4104",
+        "suburb": "YERONGA",
+        "network": "Energex",
+        "solar_mva": 6.4,
+        "battery_pen": 7.4,
+        "untapped": 1409,
+        "opp_score": 31.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0149526,
+          -27.5140455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4105",
+        "suburb": "CLIFTON HILL",
+        "network": "Energex",
+        "solar_mva": 13.4,
+        "battery_pen": 11.0,
+        "untapped": 2296,
+        "opp_score": 32.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.027,
+          -27.5234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4106",
+        "suburb": "BRISBANE MARKET",
+        "network": "Energex",
+        "solar_mva": 8.9,
+        "battery_pen": 3.7,
+        "untapped": 471,
+        "opp_score": 31.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0020535,
+          -27.5368394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4107",
+        "suburb": "SALISBURY",
+        "network": "Energex",
+        "solar_mva": 10.9,
+        "battery_pen": 6.5,
+        "untapped": 1456,
+        "opp_score": 32.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0353622,
+          -27.5499147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4108",
+        "suburb": "ARCHERFIELD",
+        "network": "Energex",
+        "solar_mva": 12.2,
+        "battery_pen": 9.4,
+        "untapped": 1271,
+        "opp_score": 31.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.024167,
+          -27.568333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4109",
+        "suburb": "ALTANDI",
+        "network": "Energex",
+        "solar_mva": 44.8,
+        "battery_pen": 7.8,
+        "untapped": 6944,
+        "opp_score": 46.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.066,
+          -27.5837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4110",
+        "suburb": "ACACIA RIDGE",
+        "network": "Energex",
+        "solar_mva": 53.5,
+        "battery_pen": 8.3,
+        "untapped": 4657,
+        "opp_score": 44.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.033333,
+          -27.583333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4111",
+        "suburb": "GRIFFITH UNIVERSITY",
+        "network": "Energex",
+        "solar_mva": 0.8,
+        "battery_pen": 3.1,
+        "untapped": 154,
+        "opp_score": 29.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.056,
+          -27.5515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4112",
+        "suburb": "KURABY",
+        "network": "Energex",
+        "solar_mva": 10.6,
+        "battery_pen": 9.2,
+        "untapped": 1637,
+        "opp_score": 31.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0942431,
+          -27.605579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4113",
+        "suburb": "EIGHT MILE PLAINS",
+        "network": "Energex",
+        "solar_mva": 30.9,
+        "battery_pen": 6.5,
+        "untapped": 5307,
+        "opp_score": 42.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0921619,
+          -27.5758579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4114",
+        "suburb": "KINGSTON",
+        "network": "Energex",
+        "solar_mva": 20.4,
+        "battery_pen": 5.0,
+        "untapped": 3072,
+        "opp_score": 37.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.116667,
+          -27.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4115",
+        "suburb": "ALGESTER",
+        "network": "Energex",
+        "solar_mva": 26.8,
+        "battery_pen": 8.6,
+        "untapped": 4352,
+        "opp_score": 39.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.033611,
+          -27.611389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4116",
+        "suburb": "CALAMVALE",
+        "network": "Energex",
+        "solar_mva": 32.5,
+        "battery_pen": 7.3,
+        "untapped": 5335,
+        "opp_score": 42.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.05,
+          -27.623889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4117",
+        "suburb": "BERRINBA",
+        "network": "Energex",
+        "solar_mva": 11.8,
+        "battery_pen": 10.3,
+        "untapped": 567,
+        "opp_score": 29.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0765771,
+          -27.656122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4118",
+        "suburb": "BROWNS PLAINS",
+        "network": "Energex",
+        "solar_mva": 43.7,
+        "battery_pen": 7.1,
+        "untapped": 6497,
+        "opp_score": 46.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0530248,
+          -27.6620444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4119",
+        "suburb": "UNDERWOOD",
+        "network": "Energex",
+        "solar_mva": 13.0,
+        "battery_pen": 7.1,
+        "untapped": 1679,
+        "opp_score": 32.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1119105,
+          -27.6092593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4120",
+        "suburb": "GREENSLOPES",
+        "network": "Energex",
+        "solar_mva": 6.4,
+        "battery_pen": 7.1,
+        "untapped": 1236,
+        "opp_score": 31.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0528149,
+          -27.5096657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4121",
+        "suburb": "EKIBIN",
+        "network": "Energex",
+        "solar_mva": 27.0,
+        "battery_pen": 8.2,
+        "untapped": 5103,
+        "opp_score": 40.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.04,
+          -27.516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4122",
+        "suburb": "MANSFIELD",
+        "network": "Energex",
+        "solar_mva": 45.1,
+        "battery_pen": 7.1,
+        "untapped": 7822,
+        "opp_score": 48.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1,
+          -27.533333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4123",
+        "suburb": "PRIESTS GULLY",
+        "network": "Energex",
+        "solar_mva": 36.3,
+        "battery_pen": 8.4,
+        "untapped": 5243,
+        "opp_score": 42.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.143,
+          -27.5924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4124",
+        "suburb": "BORONIA HEIGHTS",
+        "network": "Energex",
+        "solar_mva": 50.3,
+        "battery_pen": 9.6,
+        "untapped": 6717,
+        "opp_score": 46.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0166667,
+          -27.6833333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4125",
+        "suburb": "MUNRUBEN",
+        "network": "Energex",
+        "solar_mva": 20.9,
+        "battery_pen": 8.0,
+        "untapped": 2610,
+        "opp_score": 35.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.033333,
+          -27.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4127",
+        "suburb": "CHATSWOOD HILLS",
+        "network": "Energex",
+        "solar_mva": 33.5,
+        "battery_pen": 6.3,
+        "untapped": 5185,
+        "opp_score": 42.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.145,
+          -27.6346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4128",
+        "suburb": "KIMBERLEY PARK",
+        "network": "Energex",
+        "solar_mva": 26.9,
+        "battery_pen": 6.5,
+        "untapped": 4761,
+        "opp_score": 40.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.187,
+          -27.6465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4129",
+        "suburb": "LOGANDALE",
+        "network": "Energex",
+        "solar_mva": 12.6,
+        "battery_pen": 5.9,
+        "untapped": 1525,
+        "opp_score": 32.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.211,
+          -27.6734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4130",
+        "suburb": "CARBROOK",
+        "network": "Energex",
+        "solar_mva": 14.7,
+        "battery_pen": 9.9,
+        "untapped": 2296,
+        "opp_score": 33.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.276025,
+          -27.687086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4131",
+        "suburb": "LOGANLEA",
+        "network": "Energex",
+        "solar_mva": 11.6,
+        "battery_pen": 6.1,
+        "untapped": 1670,
+        "opp_score": 32.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.130833,
+          -27.676389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4132",
+        "suburb": "CRESTMEAD",
+        "network": "Energex",
+        "solar_mva": 25.8,
+        "battery_pen": 5.1,
+        "untapped": 3908,
+        "opp_score": 39.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.088056,
+          -27.689722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4133",
+        "suburb": "CHAMBERS FLAT",
+        "network": "Energex",
+        "solar_mva": 32.9,
+        "battery_pen": 9.0,
+        "untapped": 4628,
+        "opp_score": 40.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.091,
+          -27.7534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4151",
+        "suburb": "COORPAROO",
+        "network": "Energex",
+        "solar_mva": 13.1,
+        "battery_pen": 8.0,
+        "untapped": 2401,
+        "opp_score": 33.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0619877,
+          -27.5009968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4152",
+        "suburb": "CAMP HILL",
+        "network": "Energex",
+        "solar_mva": 51.7,
+        "battery_pen": 7.9,
+        "untapped": 9035,
+        "opp_score": 51.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.079,
+          -27.501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4153",
+        "suburb": "BELMONT",
+        "network": "Energex",
+        "solar_mva": 5.8,
+        "battery_pen": 7.8,
+        "untapped": 931,
+        "opp_score": 30.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1354693,
+          -27.511066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4154",
+        "suburb": "GUMDALE",
+        "network": "Energex",
+        "solar_mva": 17.8,
+        "battery_pen": 7.7,
+        "untapped": 3074,
+        "opp_score": 35.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1590306,
+          -27.4942399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4155",
+        "suburb": "CHANDLER",
+        "network": "Energex",
+        "solar_mva": 3.8,
+        "battery_pen": 11.2,
+        "untapped": 502,
+        "opp_score": 28.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1559725,
+          -27.5139687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4156",
+        "suburb": "BURBANK",
+        "network": "Energex",
+        "solar_mva": 5.7,
+        "battery_pen": 10.9,
+        "untapped": 896,
+        "opp_score": 29.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.163,
+          -27.559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4157",
+        "suburb": "CAPALABA",
+        "network": "Energex",
+        "solar_mva": 27.9,
+        "battery_pen": 6.1,
+        "untapped": 5264,
+        "opp_score": 41.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1927,
+          -27.522994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4158",
+        "suburb": "THORNESIDE",
+        "network": "Energex",
+        "solar_mva": 3.7,
+        "battery_pen": 6.2,
+        "untapped": 831,
+        "opp_score": 30.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2002692,
+          -27.4864891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4159",
+        "suburb": "BIRKDALE",
+        "network": "Energex",
+        "solar_mva": 19.5,
+        "battery_pen": 7.1,
+        "untapped": 3610,
+        "opp_score": 37.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2208914,
+          -27.4880371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4160",
+        "suburb": "EROBIN",
+        "network": "Energex",
+        "solar_mva": 26.7,
+        "battery_pen": 7.0,
+        "untapped": 5281,
+        "opp_score": 41.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.281,
+          -27.533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4161",
+        "suburb": "ALEXANDRA HILLS",
+        "network": "Energex",
+        "solar_mva": 19.5,
+        "battery_pen": 5.0,
+        "untapped": 4406,
+        "opp_score": 39.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.220588,
+          -27.522958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4163",
+        "suburb": "CLEVELAND",
+        "network": "Energex",
+        "solar_mva": 21.1,
+        "battery_pen": 8.2,
+        "untapped": 3943,
+        "opp_score": 37.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2667742,
+          -27.5334347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4164",
+        "suburb": "PINKLANDS",
+        "network": "Energex",
+        "solar_mva": 27.4,
+        "battery_pen": 7.4,
+        "untapped": 4748,
+        "opp_score": 40.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.275,
+          -27.5674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4165",
+        "suburb": "MOUNT COTTON",
+        "network": "Energex",
+        "solar_mva": 60.1,
+        "battery_pen": 7.1,
+        "untapped": 12675,
+        "opp_score": 59.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2166667,
+          -27.6166667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4169",
+        "suburb": "EAST BRISBANE",
+        "network": "Energex",
+        "solar_mva": 6.6,
+        "battery_pen": 6.4,
+        "untapped": 1180,
+        "opp_score": 31.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.051,
+          -27.482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4170",
+        "suburb": "CANNON HILL",
+        "network": "Energex",
+        "solar_mva": 31.5,
+        "battery_pen": 8.9,
+        "untapped": 4474,
+        "opp_score": 40.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.097,
+          -27.473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4171",
+        "suburb": "BALMORAL",
+        "network": "Energex",
+        "solar_mva": 17.9,
+        "battery_pen": 7.4,
+        "untapped": 3973,
+        "opp_score": 37.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.066944,
+          -27.453889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4172",
+        "suburb": "MURARRIE",
+        "network": "Energex",
+        "solar_mva": 10.1,
+        "battery_pen": 8.7,
+        "untapped": 1151,
+        "opp_score": 31.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1030766,
+          -27.452781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4173",
+        "suburb": "TINGALPA",
+        "network": "Energex",
+        "solar_mva": 11.0,
+        "battery_pen": 5.2,
+        "untapped": 1788,
+        "opp_score": 33.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1295793,
+          -27.4718491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4174",
+        "suburb": "DOBOY",
+        "network": "Energex",
+        "solar_mva": 8.1,
+        "battery_pen": 7.5,
+        "untapped": 864,
+        "opp_score": 30.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.112,
+          -27.4459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4178",
+        "suburb": "LINDUM",
+        "network": "Energex",
+        "solar_mva": 35.8,
+        "battery_pen": 6.8,
+        "untapped": 5339,
+        "opp_score": 42.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.144,
+          -27.4424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4179",
+        "suburb": "LOTA",
+        "network": "Energex",
+        "solar_mva": 23.1,
+        "battery_pen": 8.3,
+        "untapped": 4139,
+        "opp_score": 38.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.183333,
+          -27.466667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4183",
+        "suburb": "AMITY",
+        "network": "Energex",
+        "solar_mva": 3.6,
+        "battery_pen": 4.4,
+        "untapped": 1075,
+        "opp_score": 31.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4537599,
+          -27.3972508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4184",
+        "suburb": "COOCHIEMUDLO ISLAND",
+        "network": "Energex",
+        "solar_mva": 16.6,
+        "battery_pen": 11.0,
+        "untapped": 2983,
+        "opp_score": 34.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3314001,
+          -27.5692306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4205",
+        "suburb": "BETHANIA",
+        "network": "Energex",
+        "solar_mva": 8.0,
+        "battery_pen": 8.0,
+        "untapped": 1347,
+        "opp_score": 31.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1590306,
+          -27.6895821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4207",
+        "suburb": "ALBERTON",
+        "network": "Energex",
+        "solar_mva": 116.1,
+        "battery_pen": 8.2,
+        "untapped": 14278,
+        "opp_score": 71.1,
+        "opp_tier": "High"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2689,
+          -27.7069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4208",
+        "suburb": "BURNSIDE",
+        "network": "Energex",
+        "solar_mva": 42.4,
+        "battery_pen": 7.8,
+        "untapped": 5958,
+        "opp_score": 44.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.261,
+          -27.7434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4209",
+        "suburb": "CANOWINDRA",
+        "network": "Energex",
+        "solar_mva": 97.0,
+        "battery_pen": 9.3,
+        "untapped": 12395,
+        "opp_score": 64.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.267,
+          -27.8007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4210",
+        "suburb": "GUANABA",
+        "network": "Energex",
+        "solar_mva": 37.2,
+        "battery_pen": 8.9,
+        "untapped": 5066,
+        "opp_score": 42.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.233333,
+          -27.933333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4211",
+        "suburb": "ADVANCETOWN",
+        "network": "Energex",
+        "solar_mva": 84.0,
+        "battery_pen": 8.6,
+        "untapped": 12594,
+        "opp_score": 62.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.2767456,
+          -28.0315826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4212",
+        "suburb": "BOYKAMBIL",
+        "network": "Energex",
+        "solar_mva": 61.4,
+        "battery_pen": 10.3,
+        "untapped": 8081,
+        "opp_score": 50.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.378,
+          -27.8733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4213",
+        "suburb": "AUSTINVILLE",
+        "network": "Energex",
+        "solar_mva": 48.7,
+        "battery_pen": 10.8,
+        "untapped": 7090,
+        "opp_score": 46.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.309722,
+          -28.159167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4214",
+        "suburb": "ARUNDEL",
+        "network": "Energex",
+        "solar_mva": 57.3,
+        "battery_pen": 7.4,
+        "untapped": 8076,
+        "opp_score": 51.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3603181,
+          -27.9361398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4215",
+        "suburb": "AUSTRALIA FAIR",
+        "network": "Energex",
+        "solar_mva": 36.1,
+        "battery_pen": 6.6,
+        "untapped": 4947,
+        "opp_score": 42.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.41551,
+          -27.968589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4216",
+        "suburb": "ANGLERS PARADISE",
+        "network": "Energex",
+        "solar_mva": 43.8,
+        "battery_pen": 7.8,
+        "untapped": 6565,
+        "opp_score": 46.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.398,
+          -27.9155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4217",
+        "suburb": "BENOWA",
+        "network": "Energex",
+        "solar_mva": 33.0,
+        "battery_pen": 9.5,
+        "untapped": 4274,
+        "opp_score": 39.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.3829896,
+          -28.0073194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4218",
+        "suburb": "BROADBEACH",
+        "network": "Energex",
+        "solar_mva": 32.9,
+        "battery_pen": 7.8,
+        "untapped": 4782,
+        "opp_score": 41.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.431944,
+          -28.030833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4220",
+        "suburb": "BURLEIGH BC",
+        "network": "Energex",
+        "solar_mva": 42.7,
+        "battery_pen": 6.8,
+        "untapped": 5776,
+        "opp_score": 44.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.424,
+          -28.0995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4221",
+        "suburb": "ELANORA",
+        "network": "Energex",
+        "solar_mva": 30.1,
+        "battery_pen": 6.3,
+        "untapped": 5105,
+        "opp_score": 41.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.45,
+          -28.133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4223",
+        "suburb": "CURRUMBIN",
+        "network": "Energex",
+        "solar_mva": 21.6,
+        "battery_pen": 7.9,
+        "untapped": 3281,
+        "opp_score": 36.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.483,
+          -28.136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4224",
+        "suburb": "TUGUN",
+        "network": "Energex",
+        "solar_mva": 6.0,
+        "battery_pen": 6.6,
+        "untapped": 955,
+        "opp_score": 30.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.4919105,
+          -28.1469507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4225",
+        "suburb": "BILINGA",
+        "network": "Energex",
+        "solar_mva": 3.3,
+        "battery_pen": 8.3,
+        "untapped": 487,
+        "opp_score": 28.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.51,
+          -28.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4226",
+        "suburb": "CLEAR ISLAND WATERS",
+        "network": "Energex",
+        "solar_mva": 39.3,
+        "battery_pen": 7.2,
+        "untapped": 6207,
+        "opp_score": 44.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.398,
+          -28.042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4227",
+        "suburb": "REEDY CREEK",
+        "network": "Energex",
+        "solar_mva": 24.6,
+        "battery_pen": 8.7,
+        "untapped": 3723,
+        "opp_score": 37.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.403333,
+          -28.114444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4228",
+        "suburb": "INGLESIDE",
+        "network": "Energex",
+        "solar_mva": 10.1,
+        "battery_pen": 9.6,
+        "untapped": 1499,
+        "opp_score": 31.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.381,
+          -28.1669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4270",
+        "suburb": "TAMBORINE",
+        "network": "Energex",
+        "solar_mva": 7.4,
+        "battery_pen": 9.7,
+        "untapped": 1047,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1236742,
+          -27.8856135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4272",
+        "suburb": "MOUNT TAMBORINE",
+        "network": "Energex",
+        "solar_mva": 13.1,
+        "battery_pen": 11.9,
+        "untapped": 2080,
+        "opp_score": 32.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1973233,
+          -27.9496437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4275",
+        "suburb": "BENOBBLE",
+        "network": "Energex",
+        "solar_mva": 7.7,
+        "battery_pen": 9.6,
+        "untapped": 1002,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1598684,
+          -27.9879503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4280",
+        "suburb": "FLAGSTONE",
+        "network": "Energex",
+        "solar_mva": 48.0,
+        "battery_pen": 10.7,
+        "untapped": 5990,
+        "opp_score": 44.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.956,
+          -27.8091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4285",
+        "suburb": "ALLENVIEW",
+        "network": "Energex",
+        "solar_mva": 41.9,
+        "battery_pen": 9.5,
+        "untapped": 5398,
+        "opp_score": 43.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9353282,
+          -27.8908235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4287",
+        "suburb": "BARNEY VIEW",
+        "network": "Energex",
+        "solar_mva": 1.3,
+        "battery_pen": 8.0,
+        "untapped": 185,
+        "opp_score": 28.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.764444,
+          -28.2375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4300",
+        "suburb": "AUGUSTINE HEIGHTS",
+        "network": "Energex",
+        "solar_mva": 101.4,
+        "battery_pen": 8.6,
+        "untapped": 14093,
+        "opp_score": 68.2,
+        "opp_tier": "High"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.893611,
+          -27.669167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4301",
+        "suburb": "COLLINGWOOD PARK",
+        "network": "Energex",
+        "solar_mva": 46.4,
+        "battery_pen": 8.5,
+        "untapped": 5993,
+        "opp_score": 45.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.85,
+          -27.616667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4303",
+        "suburb": "DINMORE",
+        "network": "Energex",
+        "solar_mva": 3.1,
+        "battery_pen": 8.7,
+        "untapped": 504,
+        "opp_score": 28.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.833333,
+          -27.6
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4304",
+        "suburb": "BLACKSTONE",
+        "network": "Energex",
+        "solar_mva": 23.4,
+        "battery_pen": 7.9,
+        "untapped": 3251,
+        "opp_score": 37.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.800004,
+          -27.6305539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4305",
+        "suburb": "BASIN POCKET",
+        "network": "Energex",
+        "solar_mva": 72.5,
+        "battery_pen": 8.0,
+        "untapped": 11329,
+        "opp_score": 58.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7718,
+          -27.601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4306",
+        "suburb": "AMBERLEY",
+        "network": "Energex",
+        "solar_mva": 87.7,
+        "battery_pen": 9.3,
+        "untapped": 12900,
+        "opp_score": 63.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7,
+          -27.633333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4307",
+        "suburb": "COLEYVILLE",
+        "network": "Energex",
+        "solar_mva": 3.0,
+        "battery_pen": 8.1,
+        "untapped": 384,
+        "opp_score": 28.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5796026,
+          -27.7918968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4309",
+        "suburb": "ARATULA",
+        "network": "Energex",
+        "solar_mva": 5.8,
+        "battery_pen": 6.6,
+        "untapped": 853,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.548611,
+          -27.981389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4310",
+        "suburb": "ALLANDALE",
+        "network": "Energex",
+        "solar_mva": 9.4,
+        "battery_pen": 6.8,
+        "untapped": 1505,
+        "opp_score": 32.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7331232,
+          -27.9860989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4311",
+        "suburb": "ATKINSONS DAM",
+        "network": "Energex",
+        "solar_mva": 19.4,
+        "battery_pen": 8.0,
+        "untapped": 2729,
+        "opp_score": 35.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.450833,
+          -27.431667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4312",
+        "suburb": "BRYDEN",
+        "network": "Energex",
+        "solar_mva": 5.5,
+        "battery_pen": 5.9,
+        "untapped": 905,
+        "opp_score": 30.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5709752,
+          -27.2436131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4313",
+        "suburb": "BIARRA",
+        "network": "Energex",
+        "solar_mva": 3.8,
+        "battery_pen": 4.5,
+        "untapped": 686,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3631164,
+          -27.1719816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4314",
+        "suburb": "AVOCA VALE",
+        "network": "Energex",
+        "solar_mva": 5.2,
+        "battery_pen": 5.9,
+        "untapped": 970,
+        "opp_score": 30.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.235,
+          -26.7568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4340",
+        "suburb": "ASHWELL",
+        "network": "Energex",
+        "solar_mva": 8.8,
+        "battery_pen": 8.0,
+        "untapped": 1325,
+        "opp_score": 31.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.560103,
+          -27.628456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4341",
+        "suburb": "BLENHEIM",
+        "network": "Energex",
+        "solar_mva": 30.8,
+        "battery_pen": 9.8,
+        "untapped": 4472,
+        "opp_score": 39.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.313056,
+          -27.653889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4342",
+        "suburb": "CROWLEY VALE",
+        "network": "Energex",
+        "solar_mva": 4.8,
+        "battery_pen": 5.6,
+        "untapped": 662,
+        "opp_score": 30.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3741183,
+          -27.5480002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4343",
+        "suburb": "ADARE",
+        "network": "Energex",
+        "solar_mva": 23.5,
+        "battery_pen": 7.1,
+        "untapped": 2810,
+        "opp_score": 36.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3037176,
+          -27.5112736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4344",
+        "suburb": "CARPENDALE",
+        "network": "Energex",
+        "solar_mva": 4.3,
+        "battery_pen": 7.0,
+        "untapped": 638,
+        "opp_score": 29.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.151274,
+          -27.5862798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4346",
+        "suburb": "MARBURG",
+        "network": "Energex",
+        "solar_mva": 2.1,
+        "battery_pen": 7.7,
+        "untapped": 300,
+        "opp_score": 28.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5941917,
+          -27.5659238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4347",
+        "suburb": "GRANTHAM",
+        "network": "Energex",
+        "solar_mva": 2.7,
+        "battery_pen": 5.8,
+        "untapped": 454,
+        "opp_score": 29.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2,
+          -27.583333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4350",
+        "suburb": "ATHOL",
+        "network": "Ergon",
+        "solar_mva": 124.7,
+        "battery_pen": 4.1,
+        "untapped": 24290,
+        "opp_score": 90.3,
+        "opp_tier": "High"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7699978,
+          -27.6274394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4352",
+        "suburb": "AMIENS",
+        "network": "Ergon",
+        "solar_mva": 55.3,
+        "battery_pen": 5.0,
+        "untapped": 11009,
+        "opp_score": 56.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.809,
+          -28.5887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4353",
+        "suburb": "BERGEN",
+        "network": "Ergon",
+        "solar_mva": 0.4,
+        "battery_pen": 0.0,
+        "untapped": 142,
+        "opp_score": 30.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8932186,
+          -27.277131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4354",
+        "suburb": "DOUGLAS",
+        "network": "Ergon",
+        "solar_mva": 1.9,
+        "battery_pen": 4.3,
+        "untapped": 359,
+        "opp_score": 29.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9148004,
+          -27.3199034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4355",
+        "suburb": "ANDURAMBA",
+        "network": "Ergon",
+        "solar_mva": 3.6,
+        "battery_pen": 2.3,
+        "untapped": 867,
+        "opp_score": 31.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1062248,
+          -27.1511748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4356",
+        "suburb": "BONGEEN",
+        "network": "Ergon",
+        "solar_mva": 7.7,
+        "battery_pen": 3.3,
+        "untapped": 1179,
+        "opp_score": 32.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4392319,
+          -27.5368918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4357",
+        "suburb": "BRINGALILY",
+        "network": "Ergon",
+        "solar_mva": 4.7,
+        "battery_pen": 3.2,
+        "untapped": 517,
+        "opp_score": 30.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1907438,
+          -28.1236609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4358",
+        "suburb": "CAMBOOYA",
+        "network": "Ergon",
+        "solar_mva": 4.1,
+        "battery_pen": 4.9,
+        "untapped": 657,
+        "opp_score": 30.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8570111,
+          -27.7118398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4359",
+        "suburb": "ASCOT",
+        "network": "Ergon",
+        "solar_mva": 2.2,
+        "battery_pen": 5.0,
+        "untapped": 306,
+        "opp_score": 29.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.967,
+          -27.8175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4360",
+        "suburb": "NOBBY",
+        "network": "Ergon",
+        "solar_mva": 1.4,
+        "battery_pen": 1.1,
+        "untapped": 269,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9028584,
+          -27.8545522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4361",
+        "suburb": "BACK PLAINS",
+        "network": "Ergon",
+        "solar_mva": 4.5,
+        "battery_pen": 3.1,
+        "untapped": 587,
+        "opp_score": 30.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7787703,
+          -27.8833816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4362",
+        "suburb": "ALLORA",
+        "network": "Ergon",
+        "solar_mva": 5.1,
+        "battery_pen": 3.3,
+        "untapped": 624,
+        "opp_score": 30.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.983333,
+          -28.033333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4363",
+        "suburb": "SOUTHBROOK",
+        "network": "Ergon",
+        "solar_mva": 1.2,
+        "battery_pen": 4.3,
+        "untapped": 199,
+        "opp_score": 29.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7155622,
+          -27.6834647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4364",
+        "suburb": "BROOKSTEAD",
+        "network": "Ergon",
+        "solar_mva": 0.5,
+        "battery_pen": 0.0,
+        "untapped": 63,
+        "opp_score": 30.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4513347,
+          -27.7569394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4365",
+        "suburb": "LEYBURN",
+        "network": "Ergon",
+        "solar_mva": 0.7,
+        "battery_pen": 4.6,
+        "untapped": 124,
+        "opp_score": 28.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5836897,
+          -28.0364199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4370",
+        "suburb": "ALLAN",
+        "network": "Ergon",
+        "solar_mva": 27.9,
+        "battery_pen": 4.4,
+        "untapped": 4159,
+        "opp_score": 40.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9521174,
+          -28.1883924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4371",
+        "suburb": "EMU VALE",
+        "network": "Ergon",
+        "solar_mva": 1.1,
+        "battery_pen": 4.3,
+        "untapped": 177,
+        "opp_score": 29.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2418579,
+          -28.2284001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4372",
+        "suburb": "TANNYMOREL",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 3.1,
+        "untapped": 31,
+        "opp_score": 29.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2476363,
+          -28.2914624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4373",
+        "suburb": "KILLARNEY",
+        "network": "Ergon",
+        "solar_mva": 1.7,
+        "battery_pen": 4.3,
+        "untapped": 247,
+        "opp_score": 29.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3,
+          -28.333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4374",
+        "suburb": "DALVEEN",
+        "network": "Ergon",
+        "solar_mva": 0.3,
+        "battery_pen": 8.8,
+        "untapped": 52,
+        "opp_score": 27.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.971,
+          -28.486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4375",
+        "suburb": "COTTONVALE",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 0.0,
+        "untapped": 39,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9489674,
+          -28.519717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4376",
+        "suburb": "THULIMBAH",
+        "network": "Ergon",
+        "solar_mva": 0.6,
+        "battery_pen": 4.5,
+        "untapped": 84,
+        "opp_score": 28.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9490005,
+          -28.5513492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4377",
+        "suburb": "GLEN NIVEN",
+        "network": "Ergon",
+        "solar_mva": 0.9,
+        "battery_pen": 3.8,
+        "untapped": 203,
+        "opp_score": 29.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9755361,
+          -28.5906079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4378",
+        "suburb": "APPLETHORPE",
+        "network": "Ergon",
+        "solar_mva": 0.9,
+        "battery_pen": 3.2,
+        "untapped": 153,
+        "opp_score": 29.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9666314,
+          -28.6167522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4380",
+        "suburb": "AMIENS",
+        "network": "Ergon",
+        "solar_mva": 10.7,
+        "battery_pen": 5.5,
+        "untapped": 2190,
+        "opp_score": 33.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.809,
+          -28.5887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4381",
+        "suburb": "FLETCHER",
+        "network": "Ergon",
+        "solar_mva": 1.2,
+        "battery_pen": 5.7,
+        "untapped": 233,
+        "opp_score": 28.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.87,
+          -28.7704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4382",
+        "suburb": "BALLANDEAN",
+        "network": "Ergon",
+        "solar_mva": 1.1,
+        "battery_pen": 8.2,
+        "untapped": 134,
+        "opp_score": 27.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.843,
+          -28.801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4383",
+        "suburb": "JENNINGS",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 1.1,
+        "untapped": 93,
+        "opp_score": 29.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.944,
+          -28.951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4385",
+        "suburb": "BEEBO",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 0.7,
+        "untapped": 144,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9667363,
+          -28.7192981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4387",
+        "suburb": "BRUSH CREEK",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 0.0,
+        "untapped": 149,
+        "opp_score": 30.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1378688,
+          -28.6267375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4388",
+        "suburb": "KURUMBUL",
+        "network": "Ergon",
+        "solar_mva": 0.0,
+        "battery_pen": 0.0,
+        "untapped": 52,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4590999,
+          -28.5531459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4390",
+        "suburb": "BILLA BILLA",
+        "network": "Ergon",
+        "solar_mva": 0.4,
+        "battery_pen": 0.3,
+        "untapped": 734,
+        "opp_score": 31.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3020125,
+          -28.1460065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4400",
+        "suburb": "KINGSTHORPE",
+        "network": "Ergon",
+        "solar_mva": 3.6,
+        "battery_pen": 6.3,
+        "untapped": 657,
+        "opp_score": 29.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8213116,
+          -27.4750785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4401",
+        "suburb": "ACLAND",
+        "network": "Ergon",
+        "solar_mva": 33.5,
+        "battery_pen": 3.7,
+        "untapped": 1386,
+        "opp_score": 37.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6592842,
+          -27.3121579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4402",
+        "suburb": "COOYAR",
+        "network": "Ergon",
+        "solar_mva": 0.5,
+        "battery_pen": 3.1,
+        "untapped": 95,
+        "opp_score": 29.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7886398,
+          -26.9935232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4403",
+        "suburb": "BRYMAROO",
+        "network": "Ergon",
+        "solar_mva": 1.4,
+        "battery_pen": 3.3,
+        "untapped": 206,
+        "opp_score": 29.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6256824,
+          -27.2226793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4404",
+        "suburb": "BOWENVILLE",
+        "network": "Ergon",
+        "solar_mva": 1.0,
+        "battery_pen": 0.3,
+        "untapped": 308,
+        "opp_score": 30.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5022905,
+          -27.2573694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4405",
+        "suburb": "BEELBEE",
+        "network": "Ergon",
+        "solar_mva": 21.8,
+        "battery_pen": 3.5,
+        "untapped": 3293,
+        "opp_score": 38.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4315094,
+          -27.1711282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4406",
+        "suburb": "BOONDANDILLA",
+        "network": "Ergon",
+        "solar_mva": 1.7,
+        "battery_pen": 1.9,
+        "untapped": 317,
+        "opp_score": 30.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6047121,
+          -27.9220272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4407",
+        "suburb": "CATTLE CREEK",
+        "network": "Ergon",
+        "solar_mva": 1.2,
+        "battery_pen": 3.6,
+        "untapped": 106,
+        "opp_score": 29.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7990338,
+          -27.6762483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4408",
+        "suburb": "BELL",
+        "network": "Ergon",
+        "solar_mva": 0.9,
+        "battery_pen": 4.3,
+        "untapped": 155,
+        "opp_score": 29.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4504787,
+          -26.9304715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4410",
+        "suburb": "BURRA BURRI",
+        "network": "Ergon",
+        "solar_mva": 1.8,
+        "battery_pen": 2.8,
+        "untapped": 281,
+        "opp_score": 29.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.1,
+          -26.783333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4411",
+        "suburb": "TUCKERANG",
+        "network": "Ergon",
+        "solar_mva": 0.3,
+        "battery_pen": 5.0,
+        "untapped": 57,
+        "opp_score": 28.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9434612,
+          -26.9234031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4412",
+        "suburb": "BRIGALOW",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 2.6,
+        "untapped": 38,
+        "opp_score": 29.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7911697,
+          -26.9142824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4413",
+        "suburb": "AUBURN",
+        "network": "Ergon",
+        "solar_mva": 12.4,
+        "battery_pen": 5.0,
+        "untapped": 1486,
+        "opp_score": 33.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6121804,
+          -26.7019937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4415",
+        "suburb": "BOORTKOI",
+        "network": "Ergon",
+        "solar_mva": 3.4,
+        "battery_pen": 5.3,
+        "untapped": 407,
+        "opp_score": 29.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.383,
+          -26.5325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4416",
+        "suburb": "BARRAMORNIE",
+        "network": "Ergon",
+        "solar_mva": 1.0,
+        "battery_pen": 2.3,
+        "untapped": 172,
+        "opp_score": 29.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.0948046,
+          -27.0696947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4417",
+        "suburb": "NOORINDOO",
+        "network": "Ergon",
+        "solar_mva": 0.9,
+        "battery_pen": 1.4,
+        "untapped": 144,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0791268,
+          -27.0756515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4418",
+        "suburb": "GULUGUBA",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 0.0,
+        "untapped": 11,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.0953406,
+          -26.2422842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4419",
+        "suburb": "BUNDI",
+        "network": "Ergon",
+        "solar_mva": 1.1,
+        "battery_pen": 3.1,
+        "untapped": 279,
+        "opp_score": 29.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.2808291,
+          -25.6847416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4420",
+        "suburb": "BAROONDAH",
+        "network": "Ergon",
+        "solar_mva": 1.6,
+        "battery_pen": 4.1,
+        "untapped": 213,
+        "opp_score": 29.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.5374693,
+          -25.5026235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4421",
+        "suburb": "GORANBA",
+        "network": "Ergon",
+        "solar_mva": 3.0,
+        "battery_pen": 4.5,
+        "untapped": 466,
+        "opp_score": 29.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6234289,
+          -27.2328996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4422",
+        "suburb": "COOMRITH",
+        "network": "Ergon",
+        "solar_mva": 0.8,
+        "battery_pen": 2.0,
+        "untapped": 146,
+        "opp_score": 29.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6423869,
+          -27.4918663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4423",
+        "suburb": "COOMRITH",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 0.0,
+        "untapped": 98,
+        "opp_score": 30.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.642,
+          -27.4919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4424",
+        "suburb": "DRILLHAM",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 5.6,
+        "untapped": 34,
+        "opp_score": 28.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.983677,
+          -26.6404156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4425",
+        "suburb": "BOGANDILLA",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 6.7,
+        "untapped": 28,
+        "opp_score": 28.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7748167,
+          -26.4844107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4426",
+        "suburb": "JACKSON",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 0.0,
+        "untapped": 18,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6248521,
+          -26.6440948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4427",
+        "suburb": "CLIFFORD",
+        "network": "Ergon",
+        "solar_mva": 0.5,
+        "battery_pen": 6.0,
+        "untapped": 78,
+        "opp_score": 28.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3936683,
+          -26.1538671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4428",
+        "suburb": "PICKANJINNIE",
+        "network": "Ergon",
+        "solar_mva": 1.9,
+        "battery_pen": 2.7,
+        "untapped": 177,
+        "opp_score": 29.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0961138,
+          -26.4621844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4454",
+        "suburb": "ARCADIA VALLEY",
+        "network": "Ergon",
+        "solar_mva": 1.1,
+        "battery_pen": 6.9,
+        "untapped": 162,
+        "opp_score": 28.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6984192,
+          -25.5822287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4455",
+        "suburb": "ANGELLALA",
+        "network": "Ergon",
+        "solar_mva": 11.3,
+        "battery_pen": 3.5,
+        "untapped": 1665,
+        "opp_score": 33.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.891,
+          -26.409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4462",
+        "suburb": "AMBY",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 62.1,
+        "untapped": 11,
+        "opp_score": 11.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1880262,
+          -26.5487224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4465",
+        "suburb": "BARGUNYAH",
+        "network": "Ergon",
+        "solar_mva": 2.3,
+        "battery_pen": 3.4,
+        "untapped": 340,
+        "opp_score": 29.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0382688,
+          -27.142422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4467",
+        "suburb": "MUNGALLALA",
+        "network": "Ergon",
+        "solar_mva": 0.3,
+        "battery_pen": 0.0,
+        "untapped": 46,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.548676,
+          -26.4436309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4468",
+        "suburb": "BOATMAN",
+        "network": "Ergon",
+        "solar_mva": 0.5,
+        "battery_pen": 0.7,
+        "untapped": 269,
+        "opp_score": 30.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.922732,
+          -26.0901905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4470",
+        "suburb": "BAKERS BEND",
+        "network": "Ergon",
+        "solar_mva": 5.2,
+        "battery_pen": 1.9,
+        "untapped": 758,
+        "opp_score": 31.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0985817,
+          -26.7305846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4472",
+        "suburb": "BLACKALL",
+        "network": "Ergon",
+        "solar_mva": 1.9,
+        "battery_pen": 0.4,
+        "untapped": 956,
+        "opp_score": 31.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4672657,
+          -24.4206347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4477",
+        "suburb": "AUGATHELLA",
+        "network": "Ergon",
+        "solar_mva": 0.7,
+        "battery_pen": 0.7,
+        "untapped": 402,
+        "opp_score": 30.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.5854824,
+          -25.7976631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4478",
+        "suburb": "BAYRICK",
+        "network": "Ergon",
+        "solar_mva": 1.0,
+        "battery_pen": 6.2,
+        "untapped": 316,
+        "opp_score": 28.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0736322,
+          -25.4035325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4480",
+        "suburb": "EROMANGA",
+        "network": "Ergon",
+        "solar_mva": 1.5,
+        "battery_pen": 1.1,
+        "untapped": 267,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.26759,
+          -26.6687818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4486",
+        "suburb": "DIRRANBANDI",
+        "network": "Ergon",
+        "solar_mva": 6.9,
+        "battery_pen": 4.7,
+        "untapped": 122,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2284415,
+          -28.5821814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4487",
+        "suburb": "BEGONIA",
+        "network": "Ergon",
+        "solar_mva": 6.1,
+        "battery_pen": 4.7,
+        "untapped": 749,
+        "opp_score": 30.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2683052,
+          -27.4621982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4488",
+        "suburb": "BARGUNYAH",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 5.1,
+        "untapped": 37,
+        "opp_score": 28.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4772228,
+          -28.0342054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4489",
+        "suburb": "WYANDRA",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 0.0,
+        "untapped": 19,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.1142253,
+          -27.3280856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4490",
+        "suburb": "BARRINGUN",
+        "network": "Ergon",
+        "solar_mva": 2.3,
+        "battery_pen": 2.4,
+        "untapped": 485,
+        "opp_score": 30.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7913498,
+          -28.8628378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4491",
+        "suburb": "EULO",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 0.0,
+        "untapped": 15,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.0493375,
+          -28.1790962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4492",
+        "suburb": "BULLAWARRA",
+        "network": "Ergon",
+        "solar_mva": 1.1,
+        "battery_pen": 4.3,
+        "untapped": 90,
+        "opp_score": 29.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.5061034,
+          -28.0558075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4494",
+        "suburb": "BUNGUNYA",
+        "network": "Ergon",
+        "solar_mva": 0.0,
+        "battery_pen": 0.0,
+        "untapped": 17,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6523957,
+          -28.428946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4496",
+        "suburb": "NORTH TALWOOD",
+        "network": "Ergon",
+        "solar_mva": 0.0,
+        "battery_pen": 0.0,
+        "untapped": 31,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4700493,
+          -28.4866454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4497",
+        "suburb": "DAYMAR",
+        "network": "Ergon",
+        "solar_mva": 0.4,
+        "battery_pen": 1.5,
+        "untapped": 131,
+        "opp_score": 29.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0286159,
+          -28.6049318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4498",
+        "suburb": "KIOMA",
+        "network": "Ergon",
+        "solar_mva": 0.0,
+        "battery_pen": 0.0,
+        "untapped": 11,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7805312,
+          -28.2193219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4500",
+        "suburb": "BRAY PARK",
+        "network": "Energex",
+        "solar_mva": 72.4,
+        "battery_pen": 7.5,
+        "untapped": 10657,
+        "opp_score": 57.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.962222,
+          -27.292778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4501",
+        "suburb": "LAWNTON",
+        "network": "Energex",
+        "solar_mva": 8.6,
+        "battery_pen": 6.1,
+        "untapped": 1283,
+        "opp_score": 31.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9823835,
+          -27.2838811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4502",
+        "suburb": "FRENCHS FOREST",
+        "network": "Energex",
+        "solar_mva": 11.3,
+        "battery_pen": 7.8,
+        "untapped": 1826,
+        "opp_score": 32.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.964,
+          -27.2583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4503",
+        "suburb": "DAKABIN",
+        "network": "Energex",
+        "solar_mva": 56.2,
+        "battery_pen": 8.0,
+        "untapped": 8964,
+        "opp_score": 52.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9853264,
+          -27.222061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4504",
+        "suburb": "NARANGBA",
+        "network": "Energex",
+        "solar_mva": 39.3,
+        "battery_pen": 9.9,
+        "untapped": 5044,
+        "opp_score": 42.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9655318,
+          -27.2015813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4505",
+        "suburb": "BURPENGARY",
+        "network": "Energex",
+        "solar_mva": 44.1,
+        "battery_pen": 8.5,
+        "untapped": 6707,
+        "opp_score": 46.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.958072,
+          -27.1615373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4506",
+        "suburb": "MOORINA",
+        "network": "Energex",
+        "solar_mva": 36.3,
+        "battery_pen": 7.4,
+        "untapped": 5540,
+        "opp_score": 43.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.873333,
+          -27.147222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4507",
+        "suburb": "BANKSIA BEACH",
+        "network": "Energex",
+        "solar_mva": 36.7,
+        "battery_pen": 6.1,
+        "untapped": 7512,
+        "opp_score": 46.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1384143,
+          -27.0471396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4508",
+        "suburb": "DECEPTION BAY",
+        "network": "Energex",
+        "solar_mva": 21.6,
+        "battery_pen": 6.4,
+        "untapped": 3547,
+        "opp_score": 37.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0206446,
+          -27.1859323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4509",
+        "suburb": "MANGO HILL",
+        "network": "Energex",
+        "solar_mva": 52.4,
+        "battery_pen": 8.9,
+        "untapped": 7119,
+        "opp_score": 48.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.028056,
+          -27.238333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4510",
+        "suburb": "BALINGOOL",
+        "network": "Energex",
+        "solar_mva": 84.6,
+        "battery_pen": 8.1,
+        "untapped": 12591,
+        "opp_score": 62.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.952,
+          -27.0797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4511",
+        "suburb": "GODWIN BEACH",
+        "network": "Energex",
+        "solar_mva": 16.5,
+        "battery_pen": 6.2,
+        "untapped": 3142,
+        "opp_score": 36.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.111,
+          -27.086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4512",
+        "suburb": "BRACALBA",
+        "network": "Energex",
+        "solar_mva": 7.0,
+        "battery_pen": 10.5,
+        "untapped": 874,
+        "opp_score": 29.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.84926,
+          -27.0085427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4513",
+        "suburb": "CORYMBIA",
+        "network": "Energex",
+        "solar_mva": 0.4,
+        "battery_pen": 8.2,
+        "untapped": 45,
+        "opp_score": 27.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8666,
+          -27.0946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4514",
+        "suburb": "BELLTHORPE",
+        "network": "Energex",
+        "solar_mva": 15.9,
+        "battery_pen": 10.6,
+        "untapped": 2109,
+        "opp_score": 33.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.7182,
+          -26.8442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4515",
+        "suburb": "GLENFERN",
+        "network": "Energex",
+        "solar_mva": 8.4,
+        "battery_pen": 8.4,
+        "untapped": 1163,
+        "opp_score": 30.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6109218,
+          -26.9519603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4516",
+        "suburb": "ELIMBAH",
+        "network": "Energex",
+        "solar_mva": 8.9,
+        "battery_pen": 10.3,
+        "untapped": 1171,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9607727,
+          -27.0367308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4517",
+        "suburb": "BEERBURRUM",
+        "network": "Energex",
+        "solar_mva": 1.2,
+        "battery_pen": 10.2,
+        "untapped": 177,
+        "opp_score": 27.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0265315,
+          -26.953469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4518",
+        "suburb": "GLASS HOUSE MOUNTAINS",
+        "network": "Energex",
+        "solar_mva": 10.4,
+        "battery_pen": 9.3,
+        "untapped": 1546,
+        "opp_score": 31.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9323602,
+          -26.9123315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4519",
+        "suburb": "BEERWAH",
+        "network": "Energex",
+        "solar_mva": 15.7,
+        "battery_pen": 8.2,
+        "untapped": 2306,
+        "opp_score": 34.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.955167,
+          -26.8573189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4520",
+        "suburb": "ARMSTRONG CREEK",
+        "network": "Energex",
+        "solar_mva": 26.4,
+        "battery_pen": 10.0,
+        "untapped": 5132,
+        "opp_score": 40.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8139709,
+          -27.2291232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4521",
+        "suburb": "CAMPBELLS POCKET",
+        "network": "Energex",
+        "solar_mva": 9.7,
+        "battery_pen": 9.4,
+        "untapped": 1625,
+        "opp_score": 31.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.804444,
+          -27.078056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4550",
+        "suburb": "LANDSBOROUGH",
+        "network": "Energex",
+        "solar_mva": 7.7,
+        "battery_pen": 7.8,
+        "untapped": 1144,
+        "opp_score": 30.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9617842,
+          -26.8259718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4551",
+        "suburb": "AROONA",
+        "network": "Energex",
+        "solar_mva": 110.4,
+        "battery_pen": 7.0,
+        "untapped": 16577,
+        "opp_score": 74.3,
+        "opp_tier": "High"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.117,
+          -26.781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4552",
+        "suburb": "BALD KNOB",
+        "network": "Energex",
+        "solar_mva": 16.2,
+        "battery_pen": 13.5,
+        "untapped": 2523,
+        "opp_score": 32.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.912,
+          -26.7793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4553",
+        "suburb": "DIAMOND VALLEY",
+        "network": "Energex",
+        "solar_mva": 24.7,
+        "battery_pen": 7.5,
+        "untapped": 3662,
+        "opp_score": 38.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9382447,
+          -26.7558779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4554",
+        "suburb": "EUDLO",
+        "network": "Energex",
+        "solar_mva": 3.1,
+        "battery_pen": 7.0,
+        "untapped": 621,
+        "opp_score": 29.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.966667,
+          -26.733333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4555",
+        "suburb": "CHEVALLUM",
+        "network": "Energex",
+        "solar_mva": 14.3,
+        "battery_pen": 8.7,
+        "untapped": 2289,
+        "opp_score": 33.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.983333,
+          -26.7
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4556",
+        "suburb": "BUDERIM",
+        "network": "Energex",
+        "solar_mva": 69.1,
+        "battery_pen": 7.4,
+        "untapped": 11659,
+        "opp_score": 58.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.053,
+          -26.685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4557",
+        "suburb": "MOOLOOLABA",
+        "network": "Energex",
+        "solar_mva": 21.7,
+        "battery_pen": 7.6,
+        "untapped": 3406,
+        "opp_score": 37.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.118,
+          -26.682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4558",
+        "suburb": "COTTON TREE",
+        "network": "Energex",
+        "solar_mva": 24.5,
+        "battery_pen": 5.3,
+        "untapped": 3557,
+        "opp_score": 38.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0995137,
+          -26.6560928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4559",
+        "suburb": "DIDDILLIBAH",
+        "network": "Energex",
+        "solar_mva": 11.8,
+        "battery_pen": 7.8,
+        "untapped": 1967,
+        "opp_score": 32.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.033333,
+          -26.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4560",
+        "suburb": "BLI BLI",
+        "network": "Energex",
+        "solar_mva": 52.6,
+        "battery_pen": 9.1,
+        "untapped": 8388,
+        "opp_score": 50.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.037,
+          -26.618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4561",
+        "suburb": "BRIDGES",
+        "network": "Energex",
+        "solar_mva": 20.9,
+        "battery_pen": 11.6,
+        "untapped": 2326,
+        "opp_score": 34.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9382447,
+          -26.5382462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4562",
+        "suburb": "BELLI PARK",
+        "network": "Energex",
+        "solar_mva": 16.6,
+        "battery_pen": 13.0,
+        "untapped": 2377,
+        "opp_score": 32.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.816667,
+          -26.516667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4563",
+        "suburb": "BLACK MOUNTAIN",
+        "network": "Energex",
+        "solar_mva": 17.7,
+        "battery_pen": 9.1,
+        "untapped": 2944,
+        "opp_score": 35.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.868,
+          -26.415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4564",
+        "suburb": "MARCOOLA",
+        "network": "Energex",
+        "solar_mva": 15.1,
+        "battery_pen": 6.4,
+        "untapped": 2924,
+        "opp_score": 35.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0660447,
+          -26.6028757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4565",
+        "suburb": "BOREEN",
+        "network": "Energex",
+        "solar_mva": 22.7,
+        "battery_pen": 7.8,
+        "untapped": 3638,
+        "opp_score": 37.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.993,
+          -26.285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4566",
+        "suburb": "MUNNA POINT",
+        "network": "Energex",
+        "solar_mva": 19.0,
+        "battery_pen": 9.6,
+        "untapped": 2556,
+        "opp_score": 34.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.074,
+          -26.3948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4567",
+        "suburb": "CASTAWAYS BEACH",
+        "network": "Energex",
+        "solar_mva": 19.4,
+        "battery_pen": 14.7,
+        "untapped": 2696,
+        "opp_score": 33.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.101,
+          -26.432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4568",
+        "suburb": "FEDERAL",
+        "network": "Energex",
+        "solar_mva": 6.6,
+        "battery_pen": 8.5,
+        "untapped": 1021,
+        "opp_score": 30.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.809,
+          -26.398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4569",
+        "suburb": "COORAN",
+        "network": "Energex",
+        "solar_mva": 2.3,
+        "battery_pen": 8.8,
+        "untapped": 395,
+        "opp_score": 28.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.8088251,
+          -26.3376411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4570",
+        "suburb": "AMAMOOR",
+        "network": "Energex",
+        "solar_mva": 78.5,
+        "battery_pen": 7.6,
+        "untapped": 11268,
+        "opp_score": 59.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6757,
+          -26.3486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4571",
+        "suburb": "COMO",
+        "network": "Energex",
+        "solar_mva": 1.4,
+        "battery_pen": 12.1,
+        "untapped": 196,
+        "opp_score": 26.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.9358567,
+          -26.2170843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4572",
+        "suburb": "ALEXANDRA HEADLAND",
+        "network": "Energex",
+        "solar_mva": 3.5,
+        "battery_pen": 6.7,
+        "untapped": 539,
+        "opp_score": 29.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1045489,
+          -26.6715056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4573",
+        "suburb": "COOLUM BEACH",
+        "network": "Energex",
+        "solar_mva": 43.0,
+        "battery_pen": 10.1,
+        "untapped": 6226,
+        "opp_score": 44.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0736329,
+          -26.5276917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4574",
+        "suburb": "COOLABINE",
+        "network": "Energex",
+        "solar_mva": 2.6,
+        "battery_pen": 6.8,
+        "untapped": 423,
+        "opp_score": 29.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.773543,
+          -26.6023782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4575",
+        "suburb": "BIRTINYA",
+        "network": "Energex",
+        "solar_mva": 39.1,
+        "battery_pen": 6.4,
+        "untapped": 6304,
+        "opp_score": 45.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.119,
+          -26.743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4580",
+        "suburb": "COOLOOLA",
+        "network": "Energex",
+        "solar_mva": 10.1,
+        "battery_pen": 6.3,
+        "untapped": 1842,
+        "opp_score": 32.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.0352273,
+          -26.0375863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4581",
+        "suburb": "EURONG",
+        "network": "Energex",
+        "solar_mva": 2.5,
+        "battery_pen": 5.8,
+        "untapped": 387,
+        "opp_score": 29.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.1191346,
+          -25.5125158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4600",
+        "suburb": "BLACK SNAKE",
+        "network": "Ergon",
+        "solar_mva": 1.3,
+        "battery_pen": 2.7,
+        "untapped": 367,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.2838516,
+          -26.2137051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4601",
+        "suburb": "BARAMBAH",
+        "network": "Ergon",
+        "solar_mva": 1.4,
+        "battery_pen": 3.5,
+        "untapped": 274,
+        "opp_score": 29.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.1120842,
+          -26.3103449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4605",
+        "suburb": "BARLIL",
+        "network": "Ergon",
+        "solar_mva": 5.5,
+        "battery_pen": 6.9,
+        "untapped": 902,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8873664,
+          -26.1830529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4606",
+        "suburb": "CHELMSFORD",
+        "network": "Ergon",
+        "solar_mva": 3.2,
+        "battery_pen": 7.3,
+        "untapped": 790,
+        "opp_score": 29.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.809843,
+          -26.2782276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4608",
+        "suburb": "CHARLESTOWN",
+        "network": "Ergon",
+        "solar_mva": 1.4,
+        "battery_pen": 4.4,
+        "untapped": 304,
+        "opp_score": 29.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8358022,
+          -26.388896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4610",
+        "suburb": "ALICE CREEK",
+        "network": "Ergon",
+        "solar_mva": 19.5,
+        "battery_pen": 5.7,
+        "untapped": 3577,
+        "opp_score": 37.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.5949172,
+          -26.7629242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4611",
+        "suburb": "MARSHLANDS",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 3.3,
+        "untapped": 29,
+        "opp_score": 29.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.7513578,
+          -26.1555634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4612",
+        "suburb": "HIVESVILLE",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 1.9,
+        "untapped": 51,
+        "opp_score": 29.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.693056,
+          -26.175833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4613",
+        "suburb": "ABBEYWOOD",
+        "network": "Ergon",
+        "solar_mva": 1.1,
+        "battery_pen": 3.4,
+        "untapped": 201,
+        "opp_score": 29.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6320736,
+          -26.110383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4614",
+        "suburb": "NEUMGNA",
+        "network": "Ergon",
+        "solar_mva": 1.8,
+        "battery_pen": 6.5,
+        "untapped": 300,
+        "opp_score": 28.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.8566455,
+          -26.8658878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4615",
+        "suburb": "BARKER CREEK FLAT",
+        "network": "Ergon",
+        "solar_mva": 9.6,
+        "battery_pen": 7.1,
+        "untapped": 1774,
+        "opp_score": 32.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9464276,
+          -26.6562361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4620",
+        "suburb": "ARAMARA",
+        "network": "Ergon",
+        "solar_mva": 0.4,
+        "battery_pen": 12.0,
+        "untapped": 73,
+        "opp_score": 26.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.3496617,
+          -25.6022309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4621",
+        "suburb": "BIGGENDEN",
+        "network": "Ergon",
+        "solar_mva": 2.5,
+        "battery_pen": 4.7,
+        "untapped": 403,
+        "opp_score": 29.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0377569,
+          -25.5125968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4625",
+        "suburb": "ARANBANGA",
+        "network": "Ergon",
+        "solar_mva": 4.4,
+        "battery_pen": 2.3,
+        "untapped": 934,
+        "opp_score": 31.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6547836,
+          -25.8152746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4626",
+        "suburb": "BEERON",
+        "network": "Ergon",
+        "solar_mva": 3.9,
+        "battery_pen": 4.7,
+        "untapped": 510,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2645463,
+          -25.8299533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4627",
+        "suburb": "ABERCORN",
+        "network": "Ergon",
+        "solar_mva": 1.1,
+        "battery_pen": 4.6,
+        "untapped": 146,
+        "opp_score": 29.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.138092,
+          -25.1430248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4630",
+        "suburb": "BANCROFT",
+        "network": "Ergon",
+        "solar_mva": 2.9,
+        "battery_pen": 5.4,
+        "untapped": 419,
+        "opp_score": 29.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.2630722,
+          -24.7693157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4650",
+        "suburb": "ALDERSHOT",
+        "network": "Ergon",
+        "solar_mva": 51.1,
+        "battery_pen": 5.9,
+        "untapped": 8215,
+        "opp_score": 50.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.660833,
+          -25.4625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4655",
+        "suburb": "BOORAL",
+        "network": "Ergon",
+        "solar_mva": 119.4,
+        "battery_pen": 4.7,
+        "untapped": 21127,
+        "opp_score": 84.0,
+        "opp_tier": "High"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.889722,
+          -25.353889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4659",
+        "suburb": "BEELBI CREEK",
+        "network": "Ergon",
+        "solar_mva": 12.1,
+        "battery_pen": 5.1,
+        "untapped": 2350,
+        "opp_score": 34.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.6442284,
+          -25.2908364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4660",
+        "suburb": "ABINGTON",
+        "network": "Ergon",
+        "solar_mva": 17.2,
+        "battery_pen": 6.0,
+        "untapped": 2828,
+        "opp_score": 35.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.362383,
+          -25.2124338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4662",
+        "suburb": "TORBANLEA",
+        "network": "Ergon",
+        "solar_mva": 1.0,
+        "battery_pen": 3.1,
+        "untapped": 222,
+        "opp_score": 29.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.5952794,
+          -25.3472258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4670",
+        "suburb": "ABBOTSFORD",
+        "network": "Ergon",
+        "solar_mva": 140.0,
+        "battery_pen": 5.6,
+        "untapped": 21286,
+        "opp_score": 87.6,
+        "opp_tier": "High"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.0105317,
+          -24.8310061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4671",
+        "suburb": "BOOLBOONDA",
+        "network": "Ergon",
+        "solar_mva": 8.8,
+        "battery_pen": 7.5,
+        "untapped": 1651,
+        "opp_score": 32.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6936233,
+          -25.0659906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4673",
+        "suburb": "LITTABELLA",
+        "network": "Ergon",
+        "solar_mva": 1.0,
+        "battery_pen": 7.1,
+        "untapped": 184,
+        "opp_score": 28.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.123,
+          -24.5999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4674",
+        "suburb": "BAFFLE CREEK",
+        "network": "Ergon",
+        "solar_mva": 1.9,
+        "battery_pen": 7.2,
+        "untapped": 309,
+        "opp_score": 28.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.9303333,
+          -24.5019261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4676",
+        "suburb": "GINDORAN",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 10.0,
+        "untapped": 27,
+        "opp_score": 27.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.6120445,
+          -24.5885143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4677",
+        "suburb": "AGNES WATER",
+        "network": "Ergon",
+        "solar_mva": 8.3,
+        "battery_pen": 8.1,
+        "untapped": 1389,
+        "opp_score": 31.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.903333,
+          -24.2125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4678",
+        "suburb": "BOROREN",
+        "network": "Ergon",
+        "solar_mva": 1.9,
+        "battery_pen": 5.3,
+        "untapped": 306,
+        "opp_score": 29.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.4954148,
+          -24.2417175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4680",
+        "suburb": "BARMUNDU",
+        "network": "Ergon",
+        "solar_mva": 86.1,
+        "battery_pen": 5.4,
+        "untapped": 11455,
+        "opp_score": 62.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.196,
+          -24.1348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4694",
+        "suburb": "ALDOGA",
+        "network": "Ergon",
+        "solar_mva": 0.3,
+        "battery_pen": 11.5,
+        "untapped": 46,
+        "opp_score": 26.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.0686066,
+          -23.8250388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4695",
+        "suburb": "AMBROSE",
+        "network": "Ergon",
+        "solar_mva": 1.2,
+        "battery_pen": 5.2,
+        "untapped": 201,
+        "opp_score": 29.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.9125544,
+          -23.788684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4697",
+        "suburb": "RAGLAN",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 10.3,
+        "untapped": 26,
+        "opp_score": 27.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7911697,
+          -23.8116708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4699",
+        "suburb": "BAJOOL",
+        "network": "Ergon",
+        "solar_mva": 0.6,
+        "battery_pen": 5.9,
+        "untapped": 95,
+        "opp_score": 28.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5457955,
+          -23.6353354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4700",
+        "suburb": "ALLENSTOWN",
+        "network": "Ergon",
+        "solar_mva": 19.9,
+        "battery_pen": 5.6,
+        "untapped": 2733,
+        "opp_score": 36.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.502778,
+          -23.388889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4701",
+        "suburb": "BERSERKER",
+        "network": "Ergon",
+        "solar_mva": 51.8,
+        "battery_pen": 5.3,
+        "untapped": 7529,
+        "opp_score": 49.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.533333,
+          -23.366667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4702",
+        "suburb": "ALBERTA",
+        "network": "Ergon",
+        "solar_mva": 40.5,
+        "battery_pen": 5.8,
+        "untapped": 5856,
+        "opp_score": 44.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.8003012,
+          -24.3135526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4703",
+        "suburb": "ADELAIDE PARK",
+        "network": "Ergon",
+        "solar_mva": 37.3,
+        "battery_pen": 7.5,
+        "untapped": 5578,
+        "opp_score": 43.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.6923902,
+          -23.0943343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4704",
+        "suburb": "WATTLEBANK",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 8.1,
+        "untapped": 34,
+        "opp_score": 27.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4580546,
+          -23.1350245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4705",
+        "suburb": "CLARKE CREEK",
+        "network": "Ergon",
+        "solar_mva": 0.4,
+        "battery_pen": 11.4,
+        "untapped": 39,
+        "opp_score": 26.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2509959,
+          -22.6370812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4706",
+        "suburb": "OGMORE",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 13.3,
+        "untapped": 13,
+        "opp_score": 26.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.7487272,
+          -22.6263321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4707",
+        "suburb": "COLLAROY",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 2.7,
+        "untapped": 36,
+        "opp_score": 29.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2536538,
+          -22.0687775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4710",
+        "suburb": "EMU PARK",
+        "network": "Ergon",
+        "solar_mva": 7.2,
+        "battery_pen": 6.0,
+        "untapped": 1171,
+        "opp_score": 31.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7998887,
+          -23.2809921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4711",
+        "suburb": "GLENDALE",
+        "network": "Ergon",
+        "solar_mva": 2.8,
+        "battery_pen": 6.9,
+        "untapped": 435,
+        "opp_score": 29.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4740035,
+          -23.2488921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4712",
+        "suburb": "DUARINGA",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 0.0,
+        "untapped": 33,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.6727487,
+          -23.7177729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4713",
+        "suburb": "WOORABINDA",
+        "network": "Ergon",
+        "solar_mva": 0.2,
+        "battery_pen": 0.0,
+        "untapped": 18,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.4567101,
+          -24.1327416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4714",
+        "suburb": "BAREE",
+        "network": "Ergon",
+        "solar_mva": 3.5,
+        "battery_pen": 5.4,
+        "untapped": 574,
+        "opp_score": 29.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.3905,
+          -23.618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4715",
+        "suburb": "BILOELA",
+        "network": "Ergon",
+        "solar_mva": 7.9,
+        "battery_pen": 4.2,
+        "untapped": 1379,
+        "opp_score": 32.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.5164324,
+          -24.3976694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4716",
+        "suburb": "LAWGI DAWES",
+        "network": "Ergon",
+        "solar_mva": 0.8,
+        "battery_pen": 1.8,
+        "untapped": 270,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.7167158,
+          -24.5598441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4717",
+        "suburb": "BLACKWATER",
+        "network": "Ergon",
+        "solar_mva": 6.0,
+        "battery_pen": 5.6,
+        "untapped": 571,
+        "opp_score": 30.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8799357,
+          -23.5831866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4718",
+        "suburb": "BAUHINIA",
+        "network": "Ergon",
+        "solar_mva": 3.6,
+        "battery_pen": 8.4,
+        "untapped": 425,
+        "opp_score": 28.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.29576,
+          -24.5657075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4719",
+        "suburb": "CAMBOON",
+        "network": "Ergon",
+        "solar_mva": 1.3,
+        "battery_pen": 1.9,
+        "untapped": 253,
+        "opp_score": 30.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.4335252,
+          -25.033079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4720",
+        "suburb": "EMERALD",
+        "network": "Ergon",
+        "solar_mva": 25.2,
+        "battery_pen": 2.7,
+        "untapped": 3532,
+        "opp_score": 39.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.164573,
+          -23.527291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4721",
+        "suburb": "ARGYLL",
+        "network": "Ergon",
+        "solar_mva": 3.7,
+        "battery_pen": 3.3,
+        "untapped": 499,
+        "opp_score": 30.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4795042,
+          -23.2986957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4722",
+        "suburb": "ALBINIA",
+        "network": "Ergon",
+        "solar_mva": 2.3,
+        "battery_pen": 1.8,
+        "untapped": 433,
+        "opp_score": 30.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.5301155,
+          -24.5340622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4723",
+        "suburb": "BELCONG",
+        "network": "Ergon",
+        "solar_mva": 2.1,
+        "battery_pen": 3.8,
+        "untapped": 383,
+        "opp_score": 29.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2010114,
+          -23.0299189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4724",
+        "suburb": "ALPHA",
+        "network": "Ergon",
+        "solar_mva": 1.0,
+        "battery_pen": 0.4,
+        "untapped": 477,
+        "opp_score": 30.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.633333,
+          -23.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4725",
+        "suburb": "BARCALDINE",
+        "network": "Ergon",
+        "solar_mva": 2.6,
+        "battery_pen": 0.7,
+        "untapped": 1860,
+        "opp_score": 33.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.293339,
+          -23.5563211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4726",
+        "suburb": "ARAMAC",
+        "network": "Ergon",
+        "solar_mva": 0.5,
+        "battery_pen": 0.9,
+        "untapped": 227,
+        "opp_score": 30.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2427726,
+          -22.9708387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4727",
+        "suburb": "ILFRACOMBE",
+        "network": "Ergon",
+        "solar_mva": 0.3,
+        "battery_pen": 0.6,
+        "untapped": 338,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5218074,
+          -23.5933447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4728",
+        "suburb": "DUNROBIN",
+        "network": "Ergon",
+        "solar_mva": 0.4,
+        "battery_pen": 0.0,
+        "untapped": 86,
+        "opp_score": 30.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0995714,
+          -22.7712653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4730",
+        "suburb": "BRIXTON",
+        "network": "Ergon",
+        "solar_mva": 5.8,
+        "battery_pen": 0.6,
+        "untapped": 3696,
+        "opp_score": 36.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.218,
+          -23.8165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4731",
+        "suburb": "ISISFORD",
+        "network": "Ergon",
+        "solar_mva": 0.3,
+        "battery_pen": 0.0,
+        "untapped": 214,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.2593118,
+          -24.4286407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4732",
+        "suburb": "MUTTABURRA",
+        "network": "Ergon",
+        "solar_mva": 0.3,
+        "battery_pen": 1.7,
+        "untapped": 115,
+        "opp_score": 29.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.5479177,
+          -22.5944603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4733",
+        "suburb": "CORFIELD",
+        "network": "Ergon",
+        "solar_mva": 0.1,
+        "battery_pen": 2.7,
+        "untapped": 71,
+        "opp_score": 29.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2180495,
+          -22.1870756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4735",
+        "suburb": "DIAMANTINA LAKES",
+        "network": "Ergon",
+        "solar_mva": 1.8,
+        "battery_pen": 2.5,
+        "untapped": 637,
+        "opp_score": 30.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.2051302,
+          -23.9249655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4737",
+        "suburb": "ARMSTRONG BEACH",
+        "network": "Ergon",
+        "solar_mva": 14.7,
+        "battery_pen": 7.0,
+        "untapped": 1858,
+        "opp_score": 33.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.2879366,
+          -21.4463169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4738",
+        "suburb": "ILBILBIE",
+        "network": "Ergon",
+        "solar_mva": 1.7,
+        "battery_pen": 12.3,
+        "untapped": 256,
+        "opp_score": 27.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3965512,
+          -21.6942901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4739",
+        "suburb": "CARMILA",
+        "network": "Ergon",
+        "solar_mva": 0.4,
+        "battery_pen": 8.6,
+        "untapped": 53,
+        "opp_score": 27.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.3339956,
+          -21.8119895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4740",
+        "suburb": "ALEXANDRA",
+        "network": "Ergon",
+        "solar_mva": 173.6,
+        "battery_pen": 7.2,
+        "untapped": 16433,
+        "opp_score": 84.9,
+        "opp_tier": "High"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0955658,
+          -21.1623216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4741",
+        "suburb": "BALL BAY",
+        "network": "Ergon",
+        "solar_mva": 12.6,
+        "battery_pen": 6.9,
+        "untapped": 1695,
+        "opp_score": 32.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.996667,
+          -20.905833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4742",
+        "suburb": "BURTON",
+        "network": "Ergon",
+        "solar_mva": 1.5,
+        "battery_pen": 8.7,
+        "untapped": 136,
+        "opp_score": 27.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.1157116,
+          -21.632838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4744",
+        "suburb": "MORANBAH",
+        "network": "Ergon",
+        "solar_mva": 6.3,
+        "battery_pen": 7.3,
+        "untapped": 643,
+        "opp_score": 30.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0397819,
+          -22.0060767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4745",
+        "suburb": "DYSART",
+        "network": "Ergon",
+        "solar_mva": 1.7,
+        "battery_pen": 9.2,
+        "untapped": 167,
+        "opp_score": 27.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2804541,
+          -22.4848385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4746",
+        "suburb": "GERMAN CREEK",
+        "network": "Ergon",
+        "solar_mva": 0.6,
+        "battery_pen": 2.3,
+        "untapped": 43,
+        "opp_score": 29.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.551,
+          -22.9298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4750",
+        "suburb": "BUCASIA",
+        "network": "Ergon",
+        "solar_mva": 9.8,
+        "battery_pen": 6.7,
+        "untapped": 1330,
+        "opp_score": 31.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.156658,
+          -21.035608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4751",
+        "suburb": "GREENMOUNT",
+        "network": "Ergon",
+        "solar_mva": 6.8,
+        "battery_pen": 7.3,
+        "untapped": 951,
+        "opp_score": 30.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0467877,
+          -21.1871668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4753",
+        "suburb": "DEVEREUX CREEK",
+        "network": "Ergon",
+        "solar_mva": 7.9,
+        "battery_pen": 7.5,
+        "untapped": 980,
+        "opp_score": 30.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8855294,
+          -21.1111926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4754",
+        "suburb": "BENHOLME",
+        "network": "Ergon",
+        "solar_mva": 4.4,
+        "battery_pen": 9.5,
+        "untapped": 474,
+        "opp_score": 28.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.8214446,
+          -21.1650973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4756",
+        "suburb": "FINCH HATTON",
+        "network": "Ergon",
+        "solar_mva": 0.9,
+        "battery_pen": 6.1,
+        "untapped": 124,
+        "opp_score": 28.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6348041,
+          -21.1398809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4757",
+        "suburb": "BROKEN RIVER",
+        "network": "Ergon",
+        "solar_mva": 0.4,
+        "battery_pen": 13.0,
+        "untapped": 60,
+        "opp_score": 26.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5058262,
+          -21.1645705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4798",
+        "suburb": "CALEN",
+        "network": "Ergon",
+        "solar_mva": 1.5,
+        "battery_pen": 9.1,
+        "untapped": 189,
+        "opp_score": 27.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.766667,
+          -20.9
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4799",
+        "suburb": "BLOOMSBURY",
+        "network": "Ergon",
+        "solar_mva": 2.6,
+        "battery_pen": 8.9,
+        "untapped": 337,
+        "opp_score": 28.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.6236059,
+          -20.6881168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4800",
+        "suburb": "ANDROMACHE",
+        "network": "Ergon",
+        "solar_mva": 24.1,
+        "battery_pen": 9.5,
+        "untapped": 2631,
+        "opp_score": 35.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.4854816,
+          -20.5619285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4802",
+        "suburb": "AIRLIE BEACH",
+        "network": "Ergon",
+        "solar_mva": 20.9,
+        "battery_pen": 10.2,
+        "untapped": 2150,
+        "opp_score": 34.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.716944,
+          -20.2675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4804",
+        "suburb": "COLLINSVILLE",
+        "network": "Ergon",
+        "solar_mva": 3.7,
+        "battery_pen": 6.5,
+        "untapped": 432,
+        "opp_score": 29.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.85,
+          -20.55
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4805",
+        "suburb": "BINBEE",
+        "network": "Ergon",
+        "solar_mva": 21.0,
+        "battery_pen": 8.0,
+        "untapped": 2394,
+        "opp_score": 35.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.886584,
+          -20.379617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4806",
+        "suburb": "ARKENDEITH",
+        "network": "Ergon",
+        "solar_mva": 14.5,
+        "battery_pen": 2.8,
+        "untapped": 1050,
+        "opp_score": 33.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.368,
+          -19.6841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4807",
+        "suburb": "AIRDMILLAN",
+        "network": "Ergon",
+        "solar_mva": 23.5,
+        "battery_pen": 4.0,
+        "untapped": 2582,
+        "opp_score": 37.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.496673,
+          -19.5190273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4808",
+        "suburb": "BRANDON",
+        "network": "Ergon",
+        "solar_mva": 2.9,
+        "battery_pen": 4.5,
+        "untapped": 274,
+        "opp_score": 29.6,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3558976,
+          -19.555304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4809",
+        "suburb": "BARRATTA",
+        "network": "Ergon",
+        "solar_mva": 3.1,
+        "battery_pen": 8.5,
+        "untapped": 313,
+        "opp_score": 28.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.2882156,
+          -19.5996569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4810",
+        "suburb": "BELGIAN GARDENS",
+        "network": "Ergon",
+        "solar_mva": 28.7,
+        "battery_pen": 9.7,
+        "untapped": 3466,
+        "opp_score": 37.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7931731,
+          -19.2472068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4811",
+        "suburb": "CLUDEN",
+        "network": "Ergon",
+        "solar_mva": 19.3,
+        "battery_pen": 8.1,
+        "untapped": 2573,
+        "opp_score": 35.1,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.833333,
+          -19.316667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4812",
+        "suburb": "CURRAJONG",
+        "network": "Ergon",
+        "solar_mva": 26.4,
+        "battery_pen": 7.6,
+        "untapped": 3366,
+        "opp_score": 37.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7775,
+          -19.276944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4814",
+        "suburb": "AITKENVALE",
+        "network": "Ergon",
+        "solar_mva": 69.8,
+        "battery_pen": 6.9,
+        "untapped": 9347,
+        "opp_score": 55.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7721024,
+          -19.3016138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4815",
+        "suburb": "CONDON",
+        "network": "Ergon",
+        "solar_mva": 30.8,
+        "battery_pen": 6.4,
+        "untapped": 4814,
+        "opp_score": 41.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.723611,
+          -19.331944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4816",
+        "suburb": "ALLIGATOR CREEK",
+        "network": "Ergon",
+        "solar_mva": 17.4,
+        "battery_pen": 8.8,
+        "untapped": 2923,
+        "opp_score": 35.2,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.945556,
+          -19.423889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4817",
+        "suburb": "ALICE RIVER",
+        "network": "Ergon",
+        "solar_mva": 51.3,
+        "battery_pen": 8.7,
+        "untapped": 7505,
+        "opp_score": 48.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6060919,
+          -19.3320775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4818",
+        "suburb": "BEACH HOLM",
+        "network": "Ergon",
+        "solar_mva": 66.4,
+        "battery_pen": 10.3,
+        "untapped": 8117,
+        "opp_score": 51.8,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6582465,
+          -19.183191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4819",
+        "suburb": "ARCADIA",
+        "network": "Ergon",
+        "solar_mva": 5.7,
+        "battery_pen": 6.4,
+        "untapped": 1311,
+        "opp_score": 31.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.866111,
+          -19.150278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4820",
+        "suburb": "ALABAMA HILL",
+        "network": "Ergon",
+        "solar_mva": 13.2,
+        "battery_pen": 5.3,
+        "untapped": 1979,
+        "opp_score": 33.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.2496246,
+          -20.0821258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4821",
+        "suburb": "DUTTON RIVER",
+        "network": "Ergon",
+        "solar_mva": 2.8,
+        "battery_pen": 1.3,
+        "untapped": 1096,
+        "opp_score": 31.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.9299478,
+          -20.4791588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4822",
+        "suburb": "ALBION",
+        "network": "Ergon",
+        "solar_mva": 1.3,
+        "battery_pen": 0.6,
+        "untapped": 1030,
+        "opp_score": 31.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.604985,
+          -21.3285221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4823",
+        "suburb": "CARPENTARIA",
+        "network": "Ergon",
+        "solar_mva": 1.1,
+        "battery_pen": 0.1,
+        "untapped": 1269,
+        "opp_score": 32.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1606972,
+          -17.9789362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4825",
+        "suburb": "ALEXANDRIA",
+        "network": "Ergon",
+        "solar_mva": 3.2,
+        "battery_pen": 1.3,
+        "untapped": 155,
+        "opp_score": 30.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.0955658,
+          -21.1623216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4849",
+        "suburb": "CARDWELL",
+        "network": "Ergon",
+        "solar_mva": 3.5,
+        "battery_pen": 3.6,
+        "untapped": 828,
+        "opp_score": 30.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0258069,
+          -18.2654956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4850",
+        "suburb": "ABERGOWRIE",
+        "network": "Ergon",
+        "solar_mva": 15.4,
+        "battery_pen": 5.6,
+        "untapped": 2206,
+        "opp_score": 34.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9292659,
+          -18.4408136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4852",
+        "suburb": "BINGIL BAY",
+        "network": "Ergon",
+        "solar_mva": 9.2,
+        "battery_pen": 10.1,
+        "untapped": 1064,
+        "opp_score": 30.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.090833,
+          -17.827778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4854",
+        "suburb": "BILYANA",
+        "network": "Ergon",
+        "solar_mva": 8.9,
+        "battery_pen": 4.7,
+        "untapped": 1114,
+        "opp_score": 32.0,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.8936668,
+          -18.1201074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4855",
+        "suburb": "DAVESON",
+        "network": "Ergon",
+        "solar_mva": 1.2,
+        "battery_pen": 5.1,
+        "untapped": 148,
+        "opp_score": 28.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0232564,
+          -17.7865372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4856",
+        "suburb": "GOOLBOO",
+        "network": "Ergon",
+        "solar_mva": 1.0,
+        "battery_pen": 3.0,
+        "untapped": 162,
+        "opp_score": 29.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0305724,
+          -17.7245281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4858",
+        "suburb": "COMOON LOOP",
+        "network": "Ergon",
+        "solar_mva": 2.9,
+        "battery_pen": 4.1,
+        "untapped": 348,
+        "opp_score": 29.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.0389343,
+          -17.563929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4859",
+        "suburb": "NO 6 BRANCH",
+        "network": "Ergon",
+        "solar_mva": 0.5,
+        "battery_pen": 11.4,
+        "untapped": 70,
+        "opp_score": 26.8,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9546,
+          -17.5933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4860",
+        "suburb": "BAMBOO CREEK",
+        "network": "Ergon",
+        "solar_mva": 13.5,
+        "battery_pen": 6.8,
+        "untapped": 1888,
+        "opp_score": 33.4,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9859887,
+          -17.5613804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4861",
+        "suburb": "BABINDA",
+        "network": "Ergon",
+        "solar_mva": 1.9,
+        "battery_pen": 7.8,
+        "untapped": 260,
+        "opp_score": 28.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.9275798,
+          -17.3407505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4865",
+        "suburb": "GOLDSBOROUGH",
+        "network": "Ergon",
+        "solar_mva": 17.0,
+        "battery_pen": 6.1,
+        "untapped": 2658,
+        "opp_score": 35.5,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.743667,
+          -17.1543224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4868",
+        "suburb": "BAYVIEW HEIGHTS",
+        "network": "Ergon",
+        "solar_mva": 33.6,
+        "battery_pen": 7.1,
+        "untapped": 5014,
+        "opp_score": 41.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.73,
+          -16.963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4869",
+        "suburb": "BENTLEY PARK",
+        "network": "Ergon",
+        "solar_mva": 34.5,
+        "battery_pen": 6.1,
+        "untapped": 5122,
+        "opp_score": 42.6,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.738,
+          -17.004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4870",
+        "suburb": "AEROGLEN",
+        "network": "Ergon",
+        "solar_mva": 107.1,
+        "battery_pen": 5.7,
+        "untapped": 16103,
+        "opp_score": 73.3,
+        "opp_tier": "High"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.74656,
+          -16.8846772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4871",
+        "suburb": "ABINGDON DOWNS",
+        "network": "Ergon",
+        "solar_mva": 14.0,
+        "battery_pen": 5.4,
+        "untapped": 1947,
+        "opp_score": 34.0,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.2151404,
+          -17.861145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4872",
+        "suburb": "BARRINE",
+        "network": "Ergon",
+        "solar_mva": 8.9,
+        "battery_pen": 5.7,
+        "untapped": 931,
+        "opp_score": 31.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6190095,
+          -17.2335767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4873",
+        "suburb": "BAILEY CREEK",
+        "network": "Ergon",
+        "solar_mva": 11.4,
+        "battery_pen": 6.3,
+        "untapped": 1700,
+        "opp_score": 32.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.079,
+          -24.9474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4877",
+        "suburb": "CRAIGLIE",
+        "network": "Ergon",
+        "solar_mva": 11.2,
+        "battery_pen": 4.9,
+        "untapped": 1972,
+        "opp_score": 33.7,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4601456,
+          -16.5359366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4878",
+        "suburb": "BARRON",
+        "network": "Ergon",
+        "solar_mva": 26.1,
+        "battery_pen": 6.9,
+        "untapped": 4157,
+        "opp_score": 39.3,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7001993,
+          -16.8583319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4879",
+        "suburb": "BUCHAN POINT",
+        "network": "Ergon",
+        "solar_mva": 44.5,
+        "battery_pen": 7.3,
+        "untapped": 7564,
+        "opp_score": 47.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.662,
+          -16.7366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4880",
+        "suburb": "ARRIGA",
+        "network": "Ergon",
+        "solar_mva": 26.9,
+        "battery_pen": 11.2,
+        "untapped": 3404,
+        "opp_score": 36.9,
+        "opp_tier": "Medium"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.2934126,
+          -17.0201867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4881",
+        "suburb": "KOAH",
+        "network": "Ergon",
+        "solar_mva": 7.1,
+        "battery_pen": 8.8,
+        "untapped": 1536,
+        "opp_score": 31.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5513998,
+          -16.8860142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4882",
+        "suburb": "TOLGA",
+        "network": "Ergon",
+        "solar_mva": 6.0,
+        "battery_pen": 6.1,
+        "untapped": 782,
+        "opp_score": 30.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4517071,
+          -17.2031744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4883",
+        "suburb": "ATHERTON",
+        "network": "Ergon",
+        "solar_mva": 10.7,
+        "battery_pen": 7.6,
+        "untapped": 1389,
+        "opp_score": 31.9,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.4858599,
+          -17.2660801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4884",
+        "suburb": "GADGARRA",
+        "network": "Ergon",
+        "solar_mva": 3.6,
+        "battery_pen": 10.3,
+        "untapped": 603,
+        "opp_score": 28.5,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7214362,
+          -17.2663495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4885",
+        "suburb": "BUTCHERS CREEK",
+        "network": "Ergon",
+        "solar_mva": 6.4,
+        "battery_pen": 6.9,
+        "untapped": 1012,
+        "opp_score": 30.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.6908274,
+          -17.3080044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4886",
+        "suburb": "BEATRICE",
+        "network": "Ergon",
+        "solar_mva": 1.2,
+        "battery_pen": 20.0,
+        "untapped": 120,
+        "opp_score": 24.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5891892,
+          -17.5499274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4887",
+        "suburb": "HERBERTON",
+        "network": "Ergon",
+        "solar_mva": 2.2,
+        "battery_pen": 6.3,
+        "untapped": 371,
+        "opp_score": 29.1,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.383333,
+          -17.383333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4888",
+        "suburb": "EVELYN",
+        "network": "Ergon",
+        "solar_mva": 3.6,
+        "battery_pen": 10.9,
+        "untapped": 534,
+        "opp_score": 28.2,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.5032522,
+          -17.5086488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4890",
+        "suburb": "HOWITT",
+        "network": "Ergon",
+        "solar_mva": 5.9,
+        "battery_pen": 0.1,
+        "untapped": 861,
+        "opp_score": 32.4,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          141.5368085,
+          -17.1871499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4891",
+        "suburb": "KARUMBA",
+        "network": "Ergon",
+        "solar_mva": 1.1,
+        "battery_pen": 0.3,
+        "untapped": 748,
+        "opp_score": 31.3,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.8768541,
+          -17.4912391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "postcode": "4895",
+        "suburb": "AYTON",
+        "network": "Ergon",
+        "solar_mva": 4.4,
+        "battery_pen": 3.7,
+        "untapped": 625,
+        "opp_score": 30.7,
+        "opp_tier": "Low"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.344,
+          -15.9215
+        ]
+      }
+    }
+  ]
+}

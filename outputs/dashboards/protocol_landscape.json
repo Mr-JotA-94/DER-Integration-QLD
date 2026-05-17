@@ -1,0 +1,119 @@
+{
+  "manufacturers": [
+    {
+      "name": "Fronius",
+      "market_share": 0.25,
+      "protocol": "Solar.web API (Proprietary)",
+      "category": "Premium European",
+      "csip_aus_support": true,
+      "integration_complexity": "Medium",
+      "control_capability": "Monitoring + Limited Control",
+      "estimated_devices_qld": 2963448
+    },
+    {
+      "name": "SolarEdge",
+      "market_share": 0.2,
+      "protocol": "SolarEdge Cloud API (Proprietary)",
+      "category": "Premium (DC Optimizers)",
+      "csip_aus_support": true,
+      "integration_complexity": "High",
+      "control_capability": "Monitoring + Panel-level Data",
+      "estimated_devices_qld": 2370758
+    },
+    {
+      "name": "Enphase",
+      "market_share": 0.15,
+      "protocol": "Enlighten API (Proprietary)",
+      "category": "Microinverters",
+      "csip_aus_support": true,
+      "integration_complexity": "High",
+      "control_capability": "Monitoring + Per-inverter Control",
+      "estimated_devices_qld": 1778068
+    },
+    {
+      "name": "Sungrow",
+      "market_share": 0.18,
+      "protocol": "iSolarCloud API + Modbus",
+      "category": "Value Chinese",
+      "csip_aus_support": false,
+      "integration_complexity": "Medium",
+      "control_capability": "Monitoring Only (most models)",
+      "estimated_devices_qld": 2133682
+    },
+    {
+      "name": "GoodWe",
+      "market_share": 0.08,
+      "protocol": "SEMS Portal API",
+      "category": "Budget Chinese",
+      "csip_aus_support": false,
+      "integration_complexity": "Medium",
+      "control_capability": "Monitoring Only",
+      "estimated_devices_qld": 948303
+    },
+    {
+      "name": "Huawei",
+      "market_share": 0.06,
+      "protocol": "FusionSolar API",
+      "category": "Commercial/Utility",
+      "csip_aus_support": true,
+      "integration_complexity": "Medium",
+      "control_capability": "Monitoring + Control (newer models)",
+      "estimated_devices_qld": 711227
+    },
+    {
+      "name": "SMA",
+      "market_share": 0.04,
+      "protocol": "Sunny Portal API + Modbus",
+      "category": "Premium German",
+      "csip_aus_support": true,
+      "integration_complexity": "Low",
+      "control_capability": "Monitoring + Control",
+      "estimated_devices_qld": 474151
+    },
+    {
+      "name": "Tesla",
+      "market_share": 0.02,
+      "protocol": "Powerwall Gateway API",
+      "category": "Integrated Solar+Battery",
+      "csip_aus_support": true,
+      "integration_complexity": "Low",
+      "control_capability": "Full Control (batteries)",
+      "estimated_devices_qld": 237075
+    },
+    {
+      "name": "Legacy/Other",
+      "market_share": 0.02,
+      "protocol": "Modbus (local only)",
+      "category": "Pre-2015 installations",
+      "csip_aus_support": false,
+      "integration_complexity": "Very High",
+      "control_capability": "Monitoring Only (if any)",
+      "estimated_devices_qld": 237075
+    }
+  ],
+  "integration_costs": {
+    "per_api_setup": 25000,
+    "per_api_maintenance": 5000,
+    "total_apis_needed": 9,
+    "csip_aus_setup": 75000,
+    "csip_aus_maintenance": 12000
+  },
+  "timeline": {
+    "2026": {
+      "csip_aus_adoption": 0.1,
+      "legacy_proprietary": 0.9
+    },
+    "2028": {
+      "csip_aus_adoption": 0.25,
+      "legacy_proprietary": 0.75
+    },
+    "2030": {
+      "csip_aus_adoption": 0.4,
+      "legacy_proprietary": 0.6
+    },
+    "2035": {
+      "csip_aus_adoption": 0.7,
+      "legacy_proprietary": 0.3
+    }
+  }
+}
